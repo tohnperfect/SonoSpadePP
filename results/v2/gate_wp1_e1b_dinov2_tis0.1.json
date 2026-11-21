@@ -1,0 +1,55 @@
+{
+ "candidate": "wp1_e1b_dinov2_tis0.1",
+ "control": "v1",
+ "checks": {
+  "tissue_kid_usfm": {
+   "pass": false,
+   "cand_mean": 441.6242760925572,
+   "control_mean": 374.3456523886161,
+   "cand_seeds": {
+    "0": 530.44843673627,
+    "1": 388.6929848917441,
+    "2": 405.7314066496574
+   }
+  },
+  "tissue_fd_usfm": {
+   "pass": false,
+   "cand_mean": 99.40650184164282,
+   "control_mean": 89.52396223758088,
+   "cand_seeds": {
+    "0": 113.70583363152626,
+    "1": 91.9223814131876,
+    "2": 92.59129048021464
+   }
+  },
+  "nakagami_logm_w1 (primary endpoint 2, reported, not gating)": {
+   "pass": false,
+   "cand_mean": 1.368392037222181,
+   "control_mean": 1.3418735913475353,
+   "cand_seeds": {
+    "0": 1.5054527301246128,
+    "1": 1.456209506809637,
+    "2": 1.1435138747322928
+   }
+  },
+  "invariant1_locality_band0": {
+   "pass": true,
+   "cand_mean": 25.2258208947236,
+   "control_mean": 24.105788815422102
+  },
+  "invariant1_locality_band8": {
+   "pass": true,
+   "cand_mean": 66.28069299418917,
+   "control_mean": 55.363778874615065
+  },
+  "invariant1_edge_iou": {
+   "pass": true,
+   "cand_mean": 0.4204656852700495,
+   "control_mean": 0.4230552951439768
+  }
+ },
+ "realism_extractor": "usfm",
+ "realism_pass": false,
+ "invariant1": true,
+ "gate": "FAIL"
+}

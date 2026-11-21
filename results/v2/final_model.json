@@ -1,0 +1,20 @@
+{
+ "components": {
+  "sus": {
+   "flags": "--s-us runs/v2/wp3/s_us_usfm.pt",
+   "alias": "sususfm"
+  }
+ },
+ "models": {
+  "full": {
+   "key": "sususfm",
+   "flags": "--s-us runs/v2/wp3/s_us_usfm.pt",
+   "train": false
+  },
+  "no_sus": {
+   "key": "v1",
+   "flags": "",
+   "train": false
+  }
+ }
+}

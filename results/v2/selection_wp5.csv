@@ -1,0 +1,8 @@
+name,ckpt,trained_fm,val_fan_kid_usfm,val_fan_kid_dinov2,edge_iou,locality_band0,locality_band8,date,val_fan_logm_w1,val_fan_speckle_size_err
+v1sel,runs/v2/wp1/v1sel_s0.pt,none,15.1442,43777.2883,0.4542,25.437,57.884,2026-11-17,1.0234,0.6561
+e5a_spk0.25,runs/v2/wp5/e5a_spk0.25_s0.pt,none,65.0666,39462.2455,0.3835,21.847,43.51,2026-11-17,1.1482,0.9135
+e5a_spk0.5,runs/v2/wp5/e5a_spk0.5_s0.pt,none,77.0674,38828.3585,0.3411,22.216,41.531,2026-11-17,1.107,0.8145
+e5a_spk1,runs/v2/wp5/e5a_spk1_s0.pt,none,84.6559,40740.0808,0.3367,18.407,39.327,2026-11-17,0.9668,0.8429
+e5a_spk2,runs/v2/wp5/e5a_spk2_s0.pt,none,84.1972,43179.7158,0.2983,13.247,20.977,2026-11-17,0.9355,0.8213
+e5b_noise,runs/v2/wp5/e5b_noise_s0.pt,none,35.7996,44131.613,0.428,23.929,52.575,2026-11-17,1.0169,0.6431
+e5c_spk1_noise,runs/v2/wp5/e5c_spk1_noise_s0.pt,none,82.1082,41539.0615,0.3236,18.054,34.395,2026-11-17,0.9575,0.8784

@@ -1,0 +1,38 @@
+{
+ "candidate": "tier1",
+ "control": "b0pp",
+ "checks": {
+  "noharm_tissue_kid_usfm": {
+   "pass": true,
+   "cand_mean": 2004.2384974431925,
+   "control_mean": 3135.6918730407597,
+   "limit": 3222.3712543843935,
+   "n_seeds": 3
+  },
+  "noharm_nakagami_logm_w1": {
+   "pass": true,
+   "cand_mean": 2.874888000028361,
+   "control_mean": 4.753439721169275,
+   "limit": 4.802035920420178,
+   "n_seeds": 3
+  },
+  "invariant1_locality_band0": {
+   "pass": false,
+   "cand_mean": 7.6392607428943196,
+   "control_mean": 9.486353868209623
+  },
+  "invariant1_locality_band8": {
+   "pass": false,
+   "cand_mean": 10.146542285190371,
+   "control_mean": 13.394599687598635
+  },
+  "invariant1_edge_iou": {
+   "pass": false,
+   "cand_mean": 0.1709123552047586,
+   "control_mean": 0.24434714037972763
+  }
+ },
+ "realism_extractor": "usfm",
+ "mode": "noharm",
+ "gate": "FAIL"
+}

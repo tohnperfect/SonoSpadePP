@@ -1,0 +1,41 @@
+{
+ "candidate": "sususfm",
+ "control": "v1",
+ "checks": {
+  "noharm_tissue_kid_dinov2": {
+   "pass": true,
+   "cand_mean": 8600.512839133518,
+   "limit": 8760.75064249915,
+   "n_seeds": 3
+  },
+  "noharm_nakagami_logm_w1": {
+   "pass": true,
+   "cand_mean": 1.3413592430251784,
+   "limit": 1.4883178208785204,
+   "n_seeds": 3
+  },
+  "sus_real_dice": {
+   "pass": true,
+   "cand": 0.054,
+   "scratch": 0.0282
+  },
+  "invariant1_locality_band0": {
+   "pass": true,
+   "cand_mean": 27.292941345588417,
+   "control_mean": 24.105788815422102
+  },
+  "invariant1_locality_band8": {
+   "pass": true,
+   "cand_mean": 64.91068185363149,
+   "control_mean": 55.363778874615065
+  },
+  "invariant1_edge_iou": {
+   "pass": true,
+   "cand_mean": 0.4795807018810036,
+   "control_mean": 0.4230552951439768
+  }
+ },
+ "realism_extractor": "dinov2",
+ "mode": "noharm",
+ "gate": "PASS"
+}

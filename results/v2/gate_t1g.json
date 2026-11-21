@@ -1,0 +1,22 @@
+{
+ "G3_v1r_training_cts": [
+  "s0011",
+  "s0058",
+  "s0344",
+  "s0461",
+  "s0477",
+  "s0511",
+  "s0522",
+  "s0703"
+ ],
+ "G3_overlap": [],
+ "G3_pass": true,
+ "G2_t1g_heldout_r": 0.5262317200679154,
+ "G2_v1r_heldout_r": 0.11751355954800688,
+ "G2_pass": true,
+ "G1_export_max_abs_diff": 2.86102294921875e-06,
+ "G1_limit": 0.00392156862745098,
+ "G1_pass": true,
+ "n_frames": 50,
+ "export": "data/dataset/v2fm/sonospade_t1g_curvi.pt"
+}

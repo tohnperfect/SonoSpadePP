@@ -1,0 +1,48 @@
+{
+ "candidate": "wp2_e2a",
+ "control": "v1",
+ "checks": {
+  "realism_tissue_kid_usfm": {
+   "pass": true,
+   "cand_mean": 348.90146892523694,
+   "limit": 425.0835634342152
+  },
+  "realism_nakagami_logm_w1": {
+   "pass": true,
+   "cand_mean": 1.4333888637244172,
+   "limit": 1.4883178208785204
+  },
+  "diversity": {
+   "pass": false,
+   "cand_mean": 3.607200721569883e-11,
+   "seeds": {
+    "0": 4.4018938453598895e-11,
+    "1": 1.698693442799003e-11,
+    "2": 4.721014876550757e-11
+   }
+  },
+  "style_swap_locality": {
+   "pass": false,
+   "cand_mean": 0.4264543095306948,
+   "control_label_swap": 55.363778874615065
+  },
+  "invariant1_locality_band0": {
+   "pass": true,
+   "cand_mean": 23.680970737105724,
+   "control_mean": 24.105788815422102
+  },
+  "invariant1_locality_band8": {
+   "pass": true,
+   "cand_mean": 57.659983443556236,
+   "control_mean": 55.363778874615065
+  },
+  "invariant1_edge_iou": {
+   "pass": false,
+   "cand_mean": 0.3909218034995896,
+   "control_mean": 0.4230552951439768
+  }
+ },
+ "reference": "v1",
+ "mode": "wp2",
+ "gate": "FAIL"
+}

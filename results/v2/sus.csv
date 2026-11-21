@@ -1,0 +1,53 @@
+name,ckpt,metric,tissue,value,n,use,date
+scratch_v1,data/dataset/s_us_grouped.pt,heldout_sim_dice,macro,0.5693,150,selection,2026-11-16
+scratch_v1,data/dataset/s_us_grouped.pt,real_dice,liver,0.1244,39,analysis only,2026-11-16
+scratch_v1,data/dataset/s_us_grouped.pt,real_dice_per_frame,liver,0.1508,39,analysis only,2026-11-16
+scratch_v1,data/dataset/s_us_grouped.pt,real_dice,gallbladder,0.0,12,analysis only,2026-11-16
+scratch_v1,data/dataset/s_us_grouped.pt,real_dice_per_frame,gallbladder,0.0,12,analysis only,2026-11-16
+scratch_v1,data/dataset/s_us_grouped.pt,real_dice,vessel,0.0165,16,analysis only,2026-11-16
+scratch_v1,data/dataset/s_us_grouped.pt,real_dice_per_frame,vessel,0.0695,16,analysis only,2026-11-16
+scratch_v1,data/dataset/s_us_grouped.pt,real_dice,kidney,0.0,15,analysis only,2026-11-16
+scratch_v1,data/dataset/s_us_grouped.pt,real_dice_per_frame,kidney,0.0,15,analysis only,2026-11-16
+scratch_v1,data/dataset/s_us_grouped.pt,real_dice,spleen,0.0,6,analysis only,2026-11-16
+scratch_v1,data/dataset/s_us_grouped.pt,real_dice_per_frame,spleen,0.0,6,analysis only,2026-11-16
+scratch_v1,data/dataset/s_us_grouped.pt,real_dice,macro,0.0282,60,analysis only,2026-11-16
+scratch_v1,data/dataset/s_us_grouped.pt,real_dice_per_frame,macro,0.0441,60,analysis only,2026-11-16
+usfm,runs/v2/wp3/s_us_usfm.pt,heldout_sim_dice,macro,0.5774,150,selection,2026-11-17
+usfm,runs/v2/wp3/s_us_usfm.pt,real_dice,liver,0.1172,39,analysis only,2026-11-17
+usfm,runs/v2/wp3/s_us_usfm.pt,real_dice_per_frame,liver,0.1464,39,analysis only,2026-11-17
+usfm,runs/v2/wp3/s_us_usfm.pt,real_dice,gallbladder,0.1072,12,analysis only,2026-11-17
+usfm,runs/v2/wp3/s_us_usfm.pt,real_dice_per_frame,gallbladder,0.122,12,analysis only,2026-11-17
+usfm,runs/v2/wp3/s_us_usfm.pt,real_dice,vessel,0.0131,16,analysis only,2026-11-17
+usfm,runs/v2/wp3/s_us_usfm.pt,real_dice_per_frame,vessel,0.0537,16,analysis only,2026-11-17
+usfm,runs/v2/wp3/s_us_usfm.pt,real_dice,kidney,0.0326,15,analysis only,2026-11-17
+usfm,runs/v2/wp3/s_us_usfm.pt,real_dice_per_frame,kidney,0.0394,15,analysis only,2026-11-17
+usfm,runs/v2/wp3/s_us_usfm.pt,real_dice,spleen,0.0,6,analysis only,2026-11-17
+usfm,runs/v2/wp3/s_us_usfm.pt,real_dice_per_frame,spleen,0.0,6,analysis only,2026-11-17
+usfm,runs/v2/wp3/s_us_usfm.pt,real_dice,macro,0.054,60,analysis only,2026-11-17
+usfm,runs/v2/wp3/s_us_usfm.pt,real_dice_per_frame,macro,0.0723,60,analysis only,2026-11-17
+dinov2,runs/v2/wp3/s_us_dinov2.pt,heldout_sim_dice,macro,0.5456,150,selection,2026-11-17
+dinov2,runs/v2/wp3/s_us_dinov2.pt,real_dice,liver,0.1541,39,analysis only,2026-11-17
+dinov2,runs/v2/wp3/s_us_dinov2.pt,real_dice_per_frame,liver,0.1851,39,analysis only,2026-11-17
+dinov2,runs/v2/wp3/s_us_dinov2.pt,real_dice,gallbladder,0.0,12,analysis only,2026-11-17
+dinov2,runs/v2/wp3/s_us_dinov2.pt,real_dice_per_frame,gallbladder,0.0,12,analysis only,2026-11-17
+dinov2,runs/v2/wp3/s_us_dinov2.pt,real_dice,vessel,0.0139,16,analysis only,2026-11-17
+dinov2,runs/v2/wp3/s_us_dinov2.pt,real_dice_per_frame,vessel,0.0493,16,analysis only,2026-11-17
+dinov2,runs/v2/wp3/s_us_dinov2.pt,real_dice,kidney,0.0,15,analysis only,2026-11-17
+dinov2,runs/v2/wp3/s_us_dinov2.pt,real_dice_per_frame,kidney,0.0,15,analysis only,2026-11-17
+dinov2,runs/v2/wp3/s_us_dinov2.pt,real_dice,spleen,0.0,6,analysis only,2026-11-17
+dinov2,runs/v2/wp3/s_us_dinov2.pt,real_dice_per_frame,spleen,0.0,6,analysis only,2026-11-17
+dinov2,runs/v2/wp3/s_us_dinov2.pt,real_dice,macro,0.0336,60,analysis only,2026-11-17
+dinov2,runs/v2/wp3/s_us_dinov2.pt,real_dice_per_frame,macro,0.0469,60,analysis only,2026-11-17
+echocare,runs/v2/wp3/s_us_echocare.pt,heldout_sim_dice,macro,0.5596,150,selection,2026-11-17
+echocare,runs/v2/wp3/s_us_echocare.pt,real_dice,liver,0.2068,39,analysis only,2026-11-17
+echocare,runs/v2/wp3/s_us_echocare.pt,real_dice_per_frame,liver,0.275,39,analysis only,2026-11-17
+echocare,runs/v2/wp3/s_us_echocare.pt,real_dice,gallbladder,0.1338,12,analysis only,2026-11-17
+echocare,runs/v2/wp3/s_us_echocare.pt,real_dice_per_frame,gallbladder,0.1208,12,analysis only,2026-11-17
+echocare,runs/v2/wp3/s_us_echocare.pt,real_dice,vessel,0.0144,16,analysis only,2026-11-17
+echocare,runs/v2/wp3/s_us_echocare.pt,real_dice_per_frame,vessel,0.0462,16,analysis only,2026-11-17
+echocare,runs/v2/wp3/s_us_echocare.pt,real_dice,kidney,0.0,15,analysis only,2026-11-17
+echocare,runs/v2/wp3/s_us_echocare.pt,real_dice_per_frame,kidney,0.0,15,analysis only,2026-11-17
+echocare,runs/v2/wp3/s_us_echocare.pt,real_dice,spleen,0.0,6,analysis only,2026-11-17
+echocare,runs/v2/wp3/s_us_echocare.pt,real_dice_per_frame,spleen,0.0,6,analysis only,2026-11-17
+echocare,runs/v2/wp3/s_us_echocare.pt,real_dice,macro,0.071,60,analysis only,2026-11-17
+echocare,runs/v2/wp3/s_us_echocare.pt,real_dice_per_frame,macro,0.0884,60,analysis only,2026-11-17

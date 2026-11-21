@@ -1,0 +1,1699 @@
+{
+ "rows": {
+  "phys_b0": {
+   "kidney dt": 0.06386293135915504,
+   "band dt": 0.12535613582679203,
+   "kidney": -0.15679698278635512,
+   "fan": 0.12964805405543514,
+   "kidney W1": 0.16381032873830537
+  },
+  "phys_m1": {
+   "kidney dt": 0.06412359202177426,
+   "band dt": 0.12286339461315995,
+   "kidney": -0.15068233137531442,
+   "fan": 0.1300583045499378
+  },
+  "phys_m2": {
+   "kidney dt": 0.12007910029523514,
+   "band dt": 0.16679196815048233,
+   "kidney": -0.12128478505709832,
+   "fan": 0.13984641331439163
+  },
+  "ct_hu": {
+   "kidney dt": -0.3701412661415776,
+   "band dt": -0.39275341263382435,
+   "kidney": -0.3636489786729895,
+   "fan": -0.11803523775571484
+  },
+  "b0": {
+   "kidney dt": 0.24726851899847588,
+   "band dt": 0.28040677018995225,
+   "kidney": -0.08688235916584748,
+   "fan": 0.15259853290285208,
+   "kidney al": 0.629066788339321,
+   "band al": 0.6152175210868824
+  },
+  "m1": {
+   "kidney dt": 0.21057607881189852,
+   "band dt": 0.24888190703754912,
+   "kidney": -0.095976355585822,
+   "fan": 0.16051193176775813
+  },
+  "m2": {
+   "kidney dt": 0.2688106538109616,
+   "band dt": 0.2963249547895205,
+   "kidney": -0.0384688558838171,
+   "fan": 0.17393539855880483
+  },
+  "m3": {
+   "kidney dt": 0.24855990409308262,
+   "band dt": 0.2876295917336246,
+   "kidney": -0.07514492139364941,
+   "fan": 0.1557036339913932
+  },
+  "m3_hu0": {
+   "kidney dt": 0.25383642974412635,
+   "band dt": 0.29303942266040794,
+   "kidney": -0.07025949392654657,
+   "fan": 0.1564499513691403
+  },
+  "phys_m4": {
+   "kidney dt": 0.32097988806881034,
+   "band dt": 0.3364955770470765,
+   "kidney": 0.2284731910563917,
+   "fan": 0.1940290713871295
+  },
+  "m4": {
+   "kidney dt": 0.3518801368909229,
+   "band dt": 0.3704791704788327,
+   "kidney": 0.11695247352699673,
+   "fan": 0.21063234264977848
+  },
+  "phys_m4c": {
+   "kidney dt": 0.31997625419318027,
+   "band dt": 0.33531888741957017,
+   "kidney": 0.2261648761345419,
+   "fan": 0.19361339269697533
+  },
+  "m4c": {
+   "kidney dt": 0.3510794317925136,
+   "band dt": 0.36988551923188384,
+   "kidney": 0.11525400537195268,
+   "fan": 0.21010900298993176
+  },
+  "phys_m5": {
+   "kidney dt": 0.3155383087516159,
+   "band dt": 0.33513257759462806,
+   "kidney": 0.20772500474046005,
+   "fan": 0.19803668530152202
+  },
+  "m5": {
+   "kidney dt": 0.354183115960986,
+   "band dt": 0.37435137887818465,
+   "kidney": 0.107713294151266,
+   "fan": 0.2157605042597225
+  },
+  "phys_m5c": {
+   "kidney dt": 0.3210974370864411,
+   "band dt": 0.33836777831414017,
+   "kidney": 0.22038460343586455,
+   "fan": 0.1976702451844745
+  },
+  "m5c": {
+   "kidney dt": 0.35469854603010165,
+   "band dt": 0.37446054726877726,
+   "kidney": 0.11322406206610536,
+   "fan": 0.2150665772643445
+  },
+  "phys_m5k": {
+   "kidney dt": 0.32670828193188745,
+   "band dt": 0.3420886389809495,
+   "kidney": 0.2077501984877194,
+   "fan": 0.20649008558506027
+  },
+  "m5k": {
+   "kidney dt": 0.35479836873297804,
+   "band dt": 0.3825598738581316,
+   "kidney": 0.07847247663674052,
+   "fan": 0.22239490169264034
+  },
+  "phys_m5kc": {
+   "kidney dt": 0.32749014792349074,
+   "band dt": 0.34230299150363014,
+   "kidney": 0.21400486273890929,
+   "fan": 0.20363621051382225
+  },
+  "m5kc": {
+   "kidney dt": 0.35618336388707816,
+   "band dt": 0.3837373288234047,
+   "kidney": 0.08208140576017824,
+   "fan": 0.22019343042220524
+  },
+  "phys_m6": {
+   "kidney dt": 0.33285535818934764,
+   "band dt": 0.3564706038509808,
+   "kidney": 0.2215355410125722,
+   "fan": 0.1924105681987372
+  },
+  "m6": {
+   "kidney dt": 0.42356608523057215,
+   "band dt": 0.44615151985039087,
+   "kidney": 0.13319439784714757,
+   "fan": 0.21982374222911277,
+   "kidney al": 0.6958333878675318,
+   "band al": 0.6738835213155172
+  },
+  "phys_m6c": {
+   "kidney dt": 0.3425409553788355,
+   "band dt": 0.36706672588066835,
+   "kidney": 0.22635304350323415,
+   "fan": 0.19329723105330887
+  },
+  "m6c": {
+   "kidney dt": 0.4228704214366974,
+   "band dt": 0.44837133428700104,
+   "kidney": 0.1328892868205758,
+   "fan": 0.21828584500512183,
+   "kidney al": 0.6952436213870927,
+   "band al": 0.675440086174595
+  },
+  "phys_m7": {
+   "kidney dt": 0.06386293135915505,
+   "band dt": 0.125356135826792,
+   "kidney": -0.1567969827863551,
+   "fan": 0.12964805405543514
+  },
+  "m7": {
+   "kidney dt": 0.4928038916417658,
+   "band dt": 0.5377714881938711,
+   "kidney": 0.3771581105578773,
+   "fan": 0.29093472601550646,
+   "kidney al": 0.7369712543508947,
+   "band al": 0.7286977436228632
+  },
+  "phys_m7c": {
+   "kidney dt": 0.06386293135915505,
+   "band dt": 0.125356135826792,
+   "kidney": -0.15679698278635512,
+   "fan": 0.12964805405543514
+  },
+  "m7c": {
+   "kidney dt": 0.49100805330682906,
+   "band dt": 0.5326606098218803,
+   "kidney": 0.37627450517617644,
+   "fan": 0.294001742564215,
+   "kidney al": 0.7360384539484437,
+   "band al": 0.723013809726007,
+   "kidney W1": 0.08143271385887656
+  },
+  "phys_m8": {
+   "kidney dt": 0.06386293135915505,
+   "band dt": 0.125356135826792,
+   "kidney": -0.1567969827863551,
+   "fan": 0.12964805405543514
+  },
+  "m8": {
+   "kidney dt": 0.5763926227712044,
+   "band dt": 0.6390671423865079,
+   "kidney": 0.44263828984385706,
+   "fan": 0.32019931116711375,
+   "kidney al": 0.7809049499180806,
+   "band al": 0.7846224082356736
+  },
+  "phys_m8c": {
+   "kidney dt": 0.06386293135915505,
+   "band dt": 0.125356135826792,
+   "kidney": -0.1567969827863551,
+   "fan": 0.12964805405543514
+  },
+  "m8c": {
+   "kidney dt": 0.5635330608607569,
+   "band dt": 0.6291307880482341,
+   "kidney": 0.4302240357425397,
+   "fan": 0.32541350349059506,
+   "kidney al": 0.7723509815439104,
+   "band al": 0.7765227838607046
+  },
+  "phys_m7r": {
+   "kidney dt": 0.06386293135915505,
+   "band dt": 0.125356135826792,
+   "kidney": -0.1567969827863551,
+   "fan": 0.12964805405543514
+  },
+  "m7r": {
+   "kidney dt": 0.5000567608670297,
+   "band dt": 0.540987950498661,
+   "kidney": 0.3861482906897781,
+   "fan": 0.2932050195602237,
+   "kidney al": 0.7410906366219047,
+   "band al": 0.7323874821728569
+  },
+  "phys_m7rc": {
+   "kidney dt": 0.06386293135915505,
+   "band dt": 0.125356135826792,
+   "kidney": -0.1567969827863551,
+   "fan": 0.12964805405543514
+  },
+  "m7rc": {
+   "kidney dt": 0.49130972089295366,
+   "band dt": 0.5315789220469186,
+   "kidney": 0.37473519784271286,
+   "fan": 0.2973464118658319,
+   "kidney al": 0.7363194173178682,
+   "band al": 0.7230066255141899
+  },
+  "phys_b0t": {
+   "kidney dt": 0.06386293135915505,
+   "band dt": 0.125356135826792,
+   "kidney": -0.15679698278635512,
+   "fan": 0.12964805405543514
+  },
+  "b0t": {
+   "kidney dt": 0.2772375573162592,
+   "band dt": 0.28316518263938845,
+   "kidney": -0.0611552669061087,
+   "fan": 0.13288239739923288,
+   "kidney al": 0.6281800735879973,
+   "band al": 0.6013228669863461,
+   "kidney W1": 0.13036141157309736
+  },
+  "phys_m9": {
+   "kidney dt": 0.06386293135915505,
+   "band dt": 0.125356135826792,
+   "kidney": -0.1567969827863551,
+   "fan": 0.12964805405543514
+  },
+  "m9": {
+   "kidney dt": 0.5274846774748766,
+   "band dt": 0.5834889976732526,
+   "kidney": 0.44837210384577597,
+   "fan": 0.40612371606932285,
+   "kidney al": 0.7545669173169355,
+   "band al": 0.7546483785170087
+  },
+  "phys_m9c": {
+   "kidney dt": 0.06386293135915505,
+   "band dt": 0.125356135826792,
+   "kidney": -0.1567969827863551,
+   "fan": 0.12964805405543514
+  },
+  "m9c": {
+   "kidney dt": 0.5226767766730753,
+   "band dt": 0.578946059828877,
+   "kidney": 0.44988228436180644,
+   "fan": 0.420204965216865,
+   "kidney al": 0.7548355067468013,
+   "band al": 0.7525829121947513
+  },
+  "phys_m9w": {
+   "kidney dt": 0.06386293135915505,
+   "band dt": 0.125356135826792,
+   "kidney": -0.1567969827863551,
+   "fan": 0.12964805405543514
+  },
+  "m9w": {
+   "kidney dt": 0.40707711240148425,
+   "band dt": 0.466411603704315,
+   "kidney": 0.4986117865049531,
+   "fan": 0.6274485340011327,
+   "kidney al": 0.6955132050783481,
+   "band al": 0.682682452469068
+  },
+  "phys_m9cw": {
+   "kidney dt": 0.06386293135915505,
+   "band dt": 0.125356135826792,
+   "kidney": -0.1567969827863551,
+   "fan": 0.12964805405543514
+  },
+  "m9cw": {
+   "kidney dt": 0.41032072790441787,
+   "band dt": 0.46889730720169925,
+   "kidney": 0.501385722004062,
+   "fan": 0.6284498914962178,
+   "kidney al": 0.694969088763872,
+   "band al": 0.6838349671630986
+  },
+  "phys_m9a": {
+   "kidney dt": 0.06386293135915505,
+   "band dt": 0.125356135826792,
+   "kidney": -0.1567969827863551,
+   "fan": 0.12964805405543514
+  },
+  "m9a": {
+   "kidney dt": 0.5863233212954903,
+   "band dt": 0.6489302167329115,
+   "kidney": 0.4311687417240592,
+   "fan": 0.31477219128904577,
+   "kidney al": 0.7837483368940272,
+   "band al": 0.7895292094478948
+  },
+  "phys_m9ac": {
+   "kidney dt": 0.06386293135915505,
+   "band dt": 0.125356135826792,
+   "kidney": -0.15679698278635512,
+   "fan": 0.12964805405543514
+  },
+  "m9ac": {
+   "kidney dt": 0.5828667214926037,
+   "band dt": 0.6459409689734894,
+   "kidney": 0.42450474466760346,
+   "fan": 0.3195795215892331,
+   "kidney al": 0.7813700206574271,
+   "band al": 0.7861660859195021,
+   "kidney W1": 0.07744571980459725
+  },
+  "phys_copy": {
+   "kidney dt": 0.06386293135915504,
+   "band dt": 0.12535613582679203,
+   "kidney": -0.15679698278635512,
+   "fan": 0.12964805405543514
+  },
+  "copy": {
+   "kidney dt": 0.3717558729728357,
+   "band dt": 0.45790050727475023,
+   "kidney": 0.48246538333452216,
+   "fan": 0.7821219351498063,
+   "kidney al": 0.6790271741522234,
+   "band al": 0.6969610783508269
+  },
+  "phys_labwarp": {
+   "kidney dt": 0.06386293135915504,
+   "band dt": 0.12535613582679203,
+   "kidney": -0.15679698278635512,
+   "fan": 0.12964805405543514
+  },
+  "labwarp": {
+   "kidney dt": 0.47288753948443274,
+   "band dt": 0.5178009962456064,
+   "kidney": 0.5457017958877928,
+   "fan": 0.6704339331975486,
+   "kidney al": 0.7294720106542447,
+   "band al": 0.7253631422211322,
+   "kidney W1": 0.03149287614482061
+  },
+  "b0_v2": {
+   "kidney dt": 0.222466960743688,
+   "band dt": 0.2523361583967367,
+   "kidney": -0.10453942511129521,
+   "fan": 0.1691417514945224,
+   "kidney al": 0.6137726843732422,
+   "band al": 0.5923557534766526
+  },
+  "b0t_v2": {
+   "kidney dt": 0.17712049192122958,
+   "band dt": 0.20817863495356118,
+   "kidney": -0.18494315048009252,
+   "fan": 0.10106329882651244,
+   "kidney al": 0.6211824173308566,
+   "band al": 0.5982801879176488,
+   "kidney W1": 0.17610126698320544
+  },
+  "m7c_v2": {
+   "kidney dt": 0.49086910094041225,
+   "band dt": 0.526124836997135,
+   "kidney": 0.3896208895093763,
+   "fan": 0.3086658774430605,
+   "kidney al": 0.7345858511116825,
+   "band al": 0.717500983284902,
+   "kidney W1": 0.08569051675990771
+  },
+  "m9ac_v2": {
+   "kidney dt": 0.579557180215958,
+   "band dt": 0.6369864114157565,
+   "kidney": 0.42859808157797286,
+   "fan": 0.3324676643774611,
+   "kidney al": 0.7802292883804808,
+   "band al": 0.7821132463075066,
+   "kidney W1": 0.08163224760956725
+  },
+  "phys_retrieve": {
+   "kidney dt": 0.06386293135915504,
+   "band dt": 0.12535613582679203,
+   "kidney": -0.15679698278635512,
+   "fan": 0.12964805405543514
+  },
+  "retrieve": {
+   "kidney dt": 0.22253714161212082,
+   "band dt": 0.23299257816165198,
+   "kidney": 0.2967910382921315,
+   "fan": 0.3710575955980211,
+   "kidney al": 0.5740109805022972,
+   "band al": 0.5365748847597989,
+   "kidney W1": 0.08142125582236397
+  },
+  "phys_p2p": {
+   "kidney dt": 0.06386293135915505,
+   "band dt": 0.125356135826792,
+   "kidney": -0.1567969827863551,
+   "fan": 0.12964805405543514
+  },
+  "p2p": {
+   "kidney dt": 0.3967376048952638,
+   "band dt": 0.4223694846497305,
+   "kidney": 0.4521492495346684,
+   "fan": 0.468399941300634,
+   "kidney al": 0.6774952189069242,
+   "band al": 0.6456350932262133,
+   "kidney W1": 0.06492860359065375
+  },
+  "phys_m7x": {
+   "kidney dt": 0.06386293135915505,
+   "band dt": 0.125356135826792,
+   "kidney": -0.1567969827863551,
+   "fan": 0.12964805405543514
+  },
+  "m7x": {
+   "kidney dt": 0.4839913330366734,
+   "band dt": 0.5279930013240196,
+   "kidney": 0.36585982352086344,
+   "fan": 0.2923014743728379,
+   "kidney al": 0.7326658526375204,
+   "band al": 0.7208591044973406,
+   "kidney W1": 0.07943540480746879
+  }
+ },
+ "criteria": [
+  {
+   "title": "approach 1 vs B0t",
+   "a": "m7c",
+   "b": "b0t",
+   "checks": [
+    {
+     "measure": "kidney dt",
+     "bin": "all",
+     "median_diff": 0.23168319802080314,
+     "p": 1.6311688075276024e-09,
+     "up": "51/59",
+     "pass": true
+    },
+    {
+     "measure": "band dt",
+     "bin": "all",
+     "median_diff": 0.2786126911841835,
+     "p": 2.1834794417450536e-10,
+     "up": "53/59",
+     "pass": true
+    },
+    {
+     "measure": "kidney",
+     "bin": "all",
+     "median_diff": 0.48870589432896216,
+     "p": 3.989178102249673e-11,
+     "up": "56/59",
+     "pass": true
+    },
+    {
+     "measure": "fan",
+     "bin": "all",
+     "median_diff": 0.16746434429321833,
+     "p": 1.4175255581963747e-09,
+     "up": "52/59",
+     "pass": true
+    },
+    {
+     "measure": "kidney al",
+     "bin": "all",
+     "median_diff": 0.11033865809440613,
+     "p": 4.706529322602665e-09,
+     "up": "52/59",
+     "pass": true
+    },
+    {
+     "measure": "band al",
+     "bin": "all",
+     "median_diff": 0.12267370025316882,
+     "p": 1.4855173363171423e-09,
+     "up": "52/59",
+     "pass": true
+    }
+   ],
+   "kidney_w1": {
+    "median_diff": -0.04516483508381579,
+    "p": 2.3660154206693524e-09,
+    "not_worse": true
+   },
+   "verdict": "PASS"
+  },
+  {
+   "title": "approach 2 vs the label-warped given image",
+   "a": "m9ac",
+   "b": "labwarp",
+   "checks": [
+    {
+     "measure": "kidney dt",
+     "bin": "0-7 deg",
+     "median_diff": 0.04558153014595101,
+     "p": 0.2989572202786803,
+     "up": "19/31",
+     "pass": false
+    },
+    {
+     "measure": "kidney",
+     "bin": "0-7 deg",
+     "median_diff": -0.18925788965674528,
+     "p": 2.3562461137771606e-07,
+     "up": "4/31",
+     "pass": false
+    },
+    {
+     "measure": "fan",
+     "bin": "0-7 deg",
+     "median_diff": -0.45846372203610297,
+     "p": 9.313225746154785e-10,
+     "up": "0/31",
+     "pass": false
+    },
+    {
+     "measure": "kidney al",
+     "bin": "0-7 deg",
+     "median_diff": 0.011990507443745968,
+     "p": 0.9153939224779606,
+     "up": "16/31",
+     "pass": false
+    },
+    {
+     "measure": "kidney dt",
+     "bin": "7-13 deg",
+     "median_diff": 0.08718406604727705,
+     "p": 1.433321360721052e-07,
+     "up": "49/58",
+     "pass": true
+    },
+    {
+     "measure": "kidney",
+     "bin": "7-13 deg",
+     "median_diff": -0.14632849140052087,
+     "p": 5.399642580843842e-06,
+     "up": "12/58",
+     "pass": false
+    },
+    {
+     "measure": "fan",
+     "bin": "7-13 deg",
+     "median_diff": -0.45399802344467355,
+     "p": 3.5060510731588664e-11,
+     "up": "0/58",
+     "pass": false
+    },
+    {
+     "measure": "kidney al",
+     "bin": "7-13 deg",
+     "median_diff": 0.044395312666893005,
+     "p": 1.8241920930268233e-05,
+     "up": "45/58",
+     "pass": true
+    },
+    {
+     "measure": "kidney dt",
+     "bin": "13-90 deg",
+     "median_diff": 0.1481862202788673,
+     "p": 3.156645713508318e-05,
+     "up": "40/52",
+     "pass": true
+    },
+    {
+     "measure": "kidney",
+     "bin": "13-90 deg",
+     "median_diff": -0.07861639141222765,
+     "p": 0.09380232494618884,
+     "up": "21/52",
+     "pass": false
+    },
+    {
+     "measure": "fan",
+     "bin": "13-90 deg",
+     "median_diff": -0.19106949825377223,
+     "p": 6.5878957909133075e-09,
+     "up": "4/52",
+     "pass": false
+    },
+    {
+     "measure": "kidney al",
+     "bin": "13-90 deg",
+     "median_diff": 0.05563317611813545,
+     "p": 5.065634072805302e-05,
+     "up": "40/52",
+     "pass": true
+    }
+   ],
+   "kidney_w1": null,
+   "verdict": "FAIL"
+  },
+  {
+   "title": "approach 2 vs approach 1",
+   "a": "m9ac",
+   "b": "m7c",
+   "checks": [
+    {
+     "measure": "kidney dt",
+     "bin": "0-7 deg",
+     "median_diff": 0.11563302174788248,
+     "p": 9.313225746154785e-10,
+     "up": "31/31",
+     "pass": true
+    },
+    {
+     "measure": "kidney",
+     "bin": "0-7 deg",
+     "median_diff": 0.06779336022420113,
+     "p": 0.0007640225812792778,
+     "up": "24/31",
+     "pass": true
+    },
+    {
+     "measure": "fan",
+     "bin": "0-7 deg",
+     "median_diff": 0.028070163523479907,
+     "p": 1.6195699572563171e-06,
+     "up": "26/31",
+     "pass": true
+    },
+    {
+     "measure": "kidney al",
+     "bin": "0-7 deg",
+     "median_diff": 0.054047584533691406,
+     "p": 9.313225746154785e-10,
+     "up": "31/31",
+     "pass": true
+    },
+    {
+     "measure": "kidney dt",
+     "bin": "7-13 deg",
+     "median_diff": 0.08336271432324893,
+     "p": 1.697536363981379e-08,
+     "up": "49/58",
+     "pass": true
+    },
+    {
+     "measure": "kidney",
+     "bin": "7-13 deg",
+     "median_diff": 0.026776623184427223,
+     "p": 0.01917761789781461,
+     "up": "35/58",
+     "pass": true
+    },
+    {
+     "measure": "fan",
+     "bin": "7-13 deg",
+     "median_diff": 0.02389663288434997,
+     "p": 1.9421885757068132e-08,
+     "up": "51/58",
+     "pass": true
+    },
+    {
+     "measure": "kidney al",
+     "bin": "7-13 deg",
+     "median_diff": 0.03512453536192578,
+     "p": 6.03970242357166e-07,
+     "up": "46/58",
+     "pass": true
+    },
+    {
+     "measure": "kidney dt",
+     "bin": "13-90 deg",
+     "median_diff": 0.04644166267710603,
+     "p": 0.0004704230398217997,
+     "up": "36/52",
+     "pass": true
+    },
+    {
+     "measure": "kidney",
+     "bin": "13-90 deg",
+     "median_diff": 0.022330996965886803,
+     "p": 0.07727147253145507,
+     "up": "32/52",
+     "pass": false
+    },
+    {
+     "measure": "fan",
+     "bin": "13-90 deg",
+     "median_diff": 0.02059708269377858,
+     "p": 5.277112183941028e-06,
+     "up": "41/52",
+     "pass": true
+    },
+    {
+     "measure": "kidney al",
+     "bin": "13-90 deg",
+     "median_diff": 0.01770945886770886,
+     "p": 0.001186680574343296,
+     "up": "35/52",
+     "pass": true
+    }
+   ],
+   "kidney_w1": null,
+   "verdict": "FAIL"
+  },
+  {
+   "title": "v2 vs v1 on TRUSTED, no fine-tuning (reported either way)",
+   "a": "b0_v2",
+   "b": "b0",
+   "checks": [
+    {
+     "measure": "kidney dt",
+     "bin": "all",
+     "median_diff": -0.021678528296647126,
+     "p": 0.03862635105940471,
+     "up": "24/59",
+     "pass": false
+    },
+    {
+     "measure": "band dt",
+     "bin": "all",
+     "median_diff": -0.01873586123957205,
+     "p": 0.006888741150308434,
+     "up": "20/59",
+     "pass": false
+    },
+    {
+     "measure": "kidney",
+     "bin": "all",
+     "median_diff": -0.015018485781882696,
+     "p": 0.005603784880030605,
+     "up": "22/59",
+     "pass": false
+    },
+    {
+     "measure": "fan",
+     "bin": "all",
+     "median_diff": 0.01899971184481944,
+     "p": 0.00019247002025851305,
+     "up": "42/59",
+     "pass": true
+    },
+    {
+     "measure": "kidney al",
+     "bin": "all",
+     "median_diff": -0.009257766107718168,
+     "p": 0.05617984895689547,
+     "up": "25/59",
+     "pass": false
+    },
+    {
+     "measure": "band al",
+     "bin": "all",
+     "median_diff": -0.010404954353968154,
+     "p": 0.016724527882714554,
+     "up": "23/59",
+     "pass": false
+    }
+   ],
+   "kidney_w1": null,
+   "verdict": "reported"
+  },
+  {
+   "title": "approach 1 from v2 vs B0t-v2",
+   "a": "m7c_v2",
+   "b": "b0t_v2",
+   "checks": [
+    {
+     "measure": "kidney dt",
+     "bin": "all",
+     "median_diff": 0.325601565177549,
+     "p": 2.078906715227843e-10,
+     "up": "56/59",
+     "pass": true
+    },
+    {
+     "measure": "band dt",
+     "bin": "all",
+     "median_diff": 0.3121212328512302,
+     "p": 8.512180321709235e-11,
+     "up": "56/59",
+     "pass": true
+    },
+    {
+     "measure": "kidney",
+     "bin": "all",
+     "median_diff": 0.5999898275207598,
+     "p": 3.2522737842536165e-11,
+     "up": "57/59",
+     "pass": true
+    },
+    {
+     "measure": "fan",
+     "bin": "all",
+     "median_diff": 0.22272073323975225,
+     "p": 3.989178102249673e-11,
+     "up": "57/59",
+     "pass": true
+    },
+    {
+     "measure": "kidney al",
+     "bin": "all",
+     "median_diff": 0.10464334819051968,
+     "p": 7.694098740983737e-08,
+     "up": "50/59",
+     "pass": true
+    },
+    {
+     "measure": "band al",
+     "bin": "all",
+     "median_diff": 0.12720961144400972,
+     "p": 8.365470889196475e-08,
+     "up": "47/59",
+     "pass": true
+    }
+   ],
+   "kidney_w1": {
+    "median_diff": -0.0984608652042018,
+    "p": 3.2269383561782463e-10,
+    "not_worse": true
+   },
+   "verdict": "PASS"
+  },
+  {
+   "title": "approach 1 from v2 vs approach 1 from v1",
+   "a": "m7c_v2",
+   "b": "m7c",
+   "checks": [
+    {
+     "measure": "kidney dt",
+     "bin": "all",
+     "median_diff": -0.0008688440673602082,
+     "p": 0.803296418901291,
+     "up": "29/59",
+     "pass": false
+    },
+    {
+     "measure": "band dt",
+     "bin": "all",
+     "median_diff": -0.00582396408206598,
+     "p": 0.11641999625327583,
+     "up": "24/59",
+     "pass": false
+    },
+    {
+     "measure": "kidney",
+     "bin": "all",
+     "median_diff": 0.008075016329625331,
+     "p": 0.04308783506491863,
+     "up": "34/59",
+     "pass": true
+    },
+    {
+     "measure": "fan",
+     "bin": "all",
+     "median_diff": 0.015910778112223745,
+     "p": 0.005226188623370368,
+     "up": "41/59",
+     "pass": true
+    },
+    {
+     "measure": "kidney al",
+     "bin": "all",
+     "median_diff": -0.003127184179094078,
+     "p": 0.4236612886329665,
+     "up": "27/59",
+     "pass": false
+    },
+    {
+     "measure": "band al",
+     "bin": "all",
+     "median_diff": -0.0046654343605043724,
+     "p": 0.14518281683233494,
+     "up": "26/59",
+     "pass": false
+    }
+   ],
+   "kidney_w1": {
+    "median_diff": 0.005811165610949194,
+    "p": 0.00788657461551561,
+    "not_worse": false
+   },
+   "verdict": "FAIL"
+  },
+  {
+   "title": "approach 2 from v2 vs the label-warped given image",
+   "a": "m9ac_v2",
+   "b": "labwarp",
+   "checks": [
+    {
+     "measure": "kidney dt",
+     "bin": "0-7 deg",
+     "median_diff": 0.03954137223482734,
+     "p": 0.34684528410434723,
+     "up": "19/31",
+     "pass": false
+    },
+    {
+     "measure": "kidney",
+     "bin": "0-7 deg",
+     "median_diff": -0.17659955715202963,
+     "p": 2.3562461137771606e-07,
+     "up": "4/31",
+     "pass": false
+    },
+    {
+     "measure": "fan",
+     "bin": "0-7 deg",
+     "median_diff": -0.463176418280748,
+     "p": 9.313225746154785e-10,
+     "up": "0/31",
+     "pass": false
+    },
+    {
+     "measure": "kidney al",
+     "bin": "0-7 deg",
+     "median_diff": 0.00035723050435387815,
+     "p": 0.9768865816295147,
+     "up": "16/31",
+     "pass": false
+    },
+    {
+     "measure": "kidney dt",
+     "bin": "7-13 deg",
+     "median_diff": 0.09505439710186031,
+     "p": 5.354046359181384e-07,
+     "up": "48/58",
+     "pass": true
+    },
+    {
+     "measure": "kidney",
+     "bin": "7-13 deg",
+     "median_diff": -0.12008037247158504,
+     "p": 1.1960984626598024e-05,
+     "up": "12/58",
+     "pass": false
+    },
+    {
+     "measure": "fan",
+     "bin": "7-13 deg",
+     "median_diff": -0.44289733624081695,
+     "p": 3.5060510731588664e-11,
+     "up": "0/58",
+     "pass": false
+    },
+    {
+     "measure": "kidney al",
+     "bin": "7-13 deg",
+     "median_diff": 0.037698398033777836,
+     "p": 8.66820339270204e-06,
+     "up": "45/58",
+     "pass": true
+    },
+    {
+     "measure": "kidney dt",
+     "bin": "13-90 deg",
+     "median_diff": 0.15945549679900678,
+     "p": 0.00011277022546396743,
+     "up": "40/52",
+     "pass": true
+    },
+    {
+     "measure": "kidney",
+     "bin": "13-90 deg",
+     "median_diff": -0.08513482485942606,
+     "p": 0.16628150796111452,
+     "up": "22/52",
+     "pass": false
+    },
+    {
+     "measure": "fan",
+     "bin": "13-90 deg",
+     "median_diff": -0.17423095134283784,
+     "p": 1.0706222665903015e-08,
+     "up": "3/52",
+     "pass": false
+    },
+    {
+     "measure": "kidney al",
+     "bin": "13-90 deg",
+     "median_diff": 0.06755916401743889,
+     "p": 6.389710347458508e-05,
+     "up": "39/52",
+     "pass": true
+    }
+   ],
+   "kidney_w1": null,
+   "verdict": "FAIL"
+  },
+  {
+   "title": "approach 2 from v2 vs approach 1 from v2",
+   "a": "m9ac_v2",
+   "b": "m7c_v2",
+   "checks": [
+    {
+     "measure": "kidney dt",
+     "bin": "0-7 deg",
+     "median_diff": 0.10702874031762832,
+     "p": 9.313225746154785e-10,
+     "up": "31/31",
+     "pass": true
+    },
+    {
+     "measure": "kidney",
+     "bin": "0-7 deg",
+     "median_diff": 0.05639076335367771,
+     "p": 0.011704971082508564,
+     "up": "23/31",
+     "pass": true
+    },
+    {
+     "measure": "fan",
+     "bin": "0-7 deg",
+     "median_diff": 0.025499326304530973,
+     "p": 1.3524666428565979e-05,
+     "up": "25/31",
+     "pass": true
+    },
+    {
+     "measure": "kidney al",
+     "bin": "0-7 deg",
+     "median_diff": 0.06491369009017944,
+     "p": 4.6566128730773926e-09,
+     "up": "29/31",
+     "pass": true
+    },
+    {
+     "measure": "kidney dt",
+     "bin": "7-13 deg",
+     "median_diff": 0.07365134736623496,
+     "p": 1.0314999763044886e-08,
+     "up": "48/58",
+     "pass": true
+    },
+    {
+     "measure": "kidney",
+     "bin": "7-13 deg",
+     "median_diff": 0.02786630351813202,
+     "p": 0.04618981323510555,
+     "up": "37/58",
+     "pass": true
+    },
+    {
+     "measure": "fan",
+     "bin": "7-13 deg",
+     "median_diff": 0.026253135067109017,
+     "p": 2.8996159989898303e-08,
+     "up": "51/58",
+     "pass": true
+    },
+    {
+     "measure": "kidney al",
+     "bin": "7-13 deg",
+     "median_diff": 0.03731850286324817,
+     "p": 1.1384168042789908e-06,
+     "up": "46/58",
+     "pass": true
+    },
+    {
+     "measure": "kidney dt",
+     "bin": "13-90 deg",
+     "median_diff": 0.05712645498265395,
+     "p": 0.00012148060105868925,
+     "up": "38/52",
+     "pass": true
+    },
+    {
+     "measure": "kidney",
+     "bin": "13-90 deg",
+     "median_diff": 0.021513309674423053,
+     "p": 0.13293157824084242,
+     "up": "34/52",
+     "pass": false
+    },
+    {
+     "measure": "fan",
+     "bin": "13-90 deg",
+     "median_diff": 0.015761009257770964,
+     "p": 3.408556086327631e-06,
+     "up": "41/52",
+     "pass": true
+    },
+    {
+     "measure": "kidney al",
+     "bin": "13-90 deg",
+     "median_diff": 0.022072086731592833,
+     "p": 0.0017315956296023323,
+     "up": "36/52",
+     "pass": true
+    }
+   ],
+   "kidney_w1": null,
+   "verdict": "FAIL"
+  },
+  {
+   "title": "approach 1 vs the pix2pix baseline",
+   "a": "m7c",
+   "b": "p2p",
+   "checks": [
+    {
+     "measure": "kidney dt",
+     "bin": "all",
+     "median_diff": 0.08360394874995225,
+     "p": 2.845754330488954e-09,
+     "up": "55/59",
+     "pass": true
+    },
+    {
+     "measure": "band dt",
+     "bin": "all",
+     "median_diff": 0.10435192226231688,
+     "p": 9.724930042025674e-10,
+     "up": "55/59",
+     "pass": true
+    },
+    {
+     "measure": "kidney",
+     "bin": "all",
+     "median_diff": -0.06364511808867407,
+     "p": 0.005349419885000019,
+     "up": "21/59",
+     "pass": false
+    },
+    {
+     "measure": "fan",
+     "bin": "all",
+     "median_diff": -0.1837367166867243,
+     "p": 1.215621459467897e-07,
+     "up": "13/59",
+     "pass": false
+    },
+    {
+     "measure": "kidney al",
+     "bin": "all",
+     "median_diff": 0.042760224805937996,
+     "p": 5.75903495025066e-10,
+     "up": "52/59",
+     "pass": true
+    },
+    {
+     "measure": "band al",
+     "bin": "all",
+     "median_diff": 0.06987026664945828,
+     "p": 9.890496344610408e-11,
+     "up": "55/59",
+     "pass": true
+    }
+   ],
+   "kidney_w1": {
+    "median_diff": 0.013284822591145856,
+    "p": 0.00247207825961687,
+    "not_worse": false
+   },
+   "verdict": "FAIL"
+  },
+  {
+   "title": "pix2pix baseline vs B0t (reported either way)",
+   "a": "p2p",
+   "b": "b0t",
+   "checks": [
+    {
+     "measure": "kidney dt",
+     "bin": "all",
+     "median_diff": 0.14843704929630622,
+     "p": 4.9587482341662504e-06,
+     "up": "46/59",
+     "pass": true
+    },
+    {
+     "measure": "band dt",
+     "bin": "all",
+     "median_diff": 0.15908232385653487,
+     "p": 1.909507566350996e-06,
+     "up": "46/59",
+     "pass": true
+    },
+    {
+     "measure": "kidney",
+     "bin": "all",
+     "median_diff": 0.5888633364192475,
+     "p": 3.0737615314033535e-10,
+     "up": "55/59",
+     "pass": true
+    },
+    {
+     "measure": "fan",
+     "bin": "all",
+     "median_diff": 0.31433501829592725,
+     "p": 7.699600184405373e-11,
+     "up": "55/59",
+     "pass": true
+    },
+    {
+     "measure": "kidney al",
+     "bin": "all",
+     "median_diff": 0.05618193083339251,
+     "p": 0.0004745719875098004,
+     "up": "42/59",
+     "pass": true
+    },
+    {
+     "measure": "band al",
+     "bin": "all",
+     "median_diff": 0.04229412062300586,
+     "p": 0.00643366825017425,
+     "up": "41/59",
+     "pass": true
+    }
+   ],
+   "kidney_w1": null,
+   "verdict": "reported"
+  },
+  {
+   "title": "approach 1 vs the untranslated physics render (secondary)",
+   "a": "m7c",
+   "b": "phys_b0",
+   "checks": [
+    {
+     "measure": "kidney dt",
+     "bin": "all",
+     "median_diff": 0.4029325816499728,
+     "p": 3.2522737842536165e-11,
+     "up": "57/59",
+     "pass": true
+    },
+    {
+     "measure": "band dt",
+     "bin": "all",
+     "median_diff": 0.41348995753083023,
+     "p": 3.6023321077399807e-11,
+     "up": "57/59",
+     "pass": true
+    },
+    {
+     "measure": "kidney",
+     "bin": "all",
+     "median_diff": 0.5538943946129504,
+     "p": 2.9355769339911703e-11,
+     "up": "58/59",
+     "pass": true
+    },
+    {
+     "measure": "fan",
+     "bin": "all",
+     "median_diff": 0.1785980365519019,
+     "p": 2.078906715227843e-10,
+     "up": "54/59",
+     "pass": true
+    },
+    {
+     "measure": "kidney al",
+     "bin": "all",
+     "median_diff": null,
+     "p": null,
+     "up": null,
+     "pass": false
+    },
+    {
+     "measure": "band al",
+     "bin": "all",
+     "median_diff": null,
+     "p": null,
+     "up": null,
+     "pass": false
+    }
+   ],
+   "kidney_w1": null,
+   "verdict": "reported"
+  },
+  {
+   "title": "retrieved image vs approach 1",
+   "a": "retrieve",
+   "b": "m7c",
+   "checks": [
+    {
+     "measure": "kidney dt",
+     "bin": "all",
+     "median_diff": -0.25661588892279336,
+     "p": 6.295527868771217e-11,
+     "up": "3/59",
+     "pass": false
+    },
+    {
+     "measure": "band dt",
+     "bin": "all",
+     "median_diff": -0.2900347651433434,
+     "p": 2.9355769339911703e-11,
+     "up": "2/59",
+     "pass": false
+    },
+    {
+     "measure": "kidney",
+     "bin": "all",
+     "median_diff": -0.07388999947386643,
+     "p": 0.008064925333583875,
+     "up": "19/59",
+     "pass": false
+    },
+    {
+     "measure": "fan",
+     "bin": "all",
+     "median_diff": 0.07834215677007506,
+     "p": 0.0045391640827597,
+     "up": "39/59",
+     "pass": true
+    },
+    {
+     "measure": "kidney al",
+     "bin": "all",
+     "median_diff": -0.15157941646046103,
+     "p": 1.333271676841838e-10,
+     "up": "3/59",
+     "pass": false
+    },
+    {
+     "measure": "band al",
+     "bin": "all",
+     "median_diff": -0.18177324036757153,
+     "p": 3.6023321077399807e-11,
+     "up": "2/59",
+     "pass": false
+    }
+   ],
+   "kidney_w1": {
+    "median_diff": -0.0009883402721749465,
+    "p": 0.945839937390982,
+    "not_worse": true
+   },
+   "verdict": "FAIL"
+  },
+  {
+   "title": "retrieved image vs SonoSPADE (reported)",
+   "a": "retrieve",
+   "b": "b0",
+   "checks": [
+    {
+     "measure": "kidney dt",
+     "bin": "all",
+     "median_diff": 0.03371469752406567,
+     "p": 0.4874227483084589,
+     "up": "31/59",
+     "pass": false
+    },
+    {
+     "measure": "band dt",
+     "bin": "all",
+     "median_diff": -0.005725300553043211,
+     "p": 0.2804270236390609,
+     "up": "27/59",
+     "pass": false
+    },
+    {
+     "measure": "kidney",
+     "bin": "all",
+     "median_diff": 0.4339624946612242,
+     "p": 4.4973581351768636e-09,
+     "up": "52/59",
+     "pass": true
+    },
+    {
+     "measure": "fan",
+     "bin": "all",
+     "median_diff": 0.23796410701805853,
+     "p": 6.235993952637874e-08,
+     "up": "50/59",
+     "pass": true
+    },
+    {
+     "measure": "kidney al",
+     "bin": "all",
+     "median_diff": -0.04378746946652734,
+     "p": 0.008064925333583875,
+     "up": "21/59",
+     "pass": false
+    },
+    {
+     "measure": "band al",
+     "bin": "all",
+     "median_diff": -0.060692097577783766,
+     "p": 0.0005776927665787069,
+     "up": "19/59",
+     "pass": false
+    }
+   ],
+   "kidney_w1": null,
+   "verdict": "reported"
+  },
+  {
+   "title": "retrieved image vs the untranslated render (reported)",
+   "a": "retrieve",
+   "b": "phys_b0",
+   "checks": [
+    {
+     "measure": "kidney dt",
+     "bin": "all",
+     "median_diff": 0.1944829675738217,
+     "p": 2.894920248671595e-05,
+     "up": "40/59",
+     "pass": true
+    },
+    {
+     "measure": "band dt",
+     "bin": "all",
+     "median_diff": 0.13191503212335098,
+     "p": 0.002293124724813817,
+     "up": "42/59",
+     "pass": true
+    },
+    {
+     "measure": "kidney",
+     "bin": "all",
+     "median_diff": 0.49698164096421277,
+     "p": 3.732561687950067e-10,
+     "up": "54/59",
+     "pass": true
+    },
+    {
+     "measure": "fan",
+     "bin": "all",
+     "median_diff": 0.2665253380848684,
+     "p": 4.079423407761607e-08,
+     "up": "50/59",
+     "pass": true
+    },
+    {
+     "measure": "kidney al",
+     "bin": "all",
+     "median_diff": null,
+     "p": null,
+     "up": null,
+     "pass": false
+    },
+    {
+     "measure": "band al",
+     "bin": "all",
+     "median_diff": null,
+     "p": null,
+     "up": null,
+     "pass": false
+    }
+   ],
+   "kidney_w1": null,
+   "verdict": "reported"
+  },
+  {
+   "title": "retrieved image vs the patient's own label-warped image (reported)",
+   "a": "retrieve",
+   "b": "labwarp",
+   "checks": [
+    {
+     "measure": "kidney dt",
+     "bin": "all",
+     "median_diff": -0.2241667616239889,
+     "p": 1.1205580702618467e-09,
+     "up": "8/59",
+     "pass": false
+    },
+    {
+     "measure": "band dt",
+     "bin": "all",
+     "median_diff": -0.26644600803005625,
+     "p": 5.985667213500181e-11,
+     "up": "3/59",
+     "pass": false
+    },
+    {
+     "measure": "kidney",
+     "bin": "all",
+     "median_diff": -0.25133821159581127,
+     "p": 5.75903495025066e-10,
+     "up": "8/59",
+     "pass": false
+    },
+    {
+     "measure": "fan",
+     "bin": "all",
+     "median_diff": -0.28770327881761465,
+     "p": 2.788754475350701e-11,
+     "up": "1/59",
+     "pass": false
+    },
+    {
+     "measure": "kidney al",
+     "bin": "all",
+     "median_diff": -0.1329191029071808,
+     "p": 2.477985393743439e-09,
+     "up": "7/59",
+     "pass": false
+    },
+    {
+     "measure": "band al",
+     "bin": "all",
+     "median_diff": -0.169536292552948,
+     "p": 6.963035706847179e-11,
+     "up": "4/59",
+     "pass": false
+    }
+   ],
+   "kidney_w1": null,
+   "verdict": "reported"
+  },
+  {
+   "title": "hybrid (tier 1 + retrieved image) vs approach 1",
+   "a": "m7x",
+   "b": "m7c",
+   "checks": [
+    {
+     "measure": "kidney dt",
+     "bin": "all",
+     "median_diff": -0.007264012314742052,
+     "p": 0.123612257655938,
+     "up": "25/59",
+     "pass": false
+    },
+    {
+     "measure": "band dt",
+     "bin": "all",
+     "median_diff": -0.007264482700540031,
+     "p": 0.12923054060628256,
+     "up": "24/59",
+     "pass": false
+    },
+    {
+     "measure": "kidney",
+     "bin": "all",
+     "median_diff": -0.00012049945896852599,
+     "p": 0.25439281515853485,
+     "up": "29/59",
+     "pass": false
+    },
+    {
+     "measure": "fan",
+     "bin": "all",
+     "median_diff": -0.0011434795139703136,
+     "p": 0.607767805317101,
+     "up": "26/59",
+     "pass": false
+    },
+    {
+     "measure": "kidney al",
+     "bin": "all",
+     "median_diff": -0.001244803269704331,
+     "p": 0.36108210452806877,
+     "up": "27/59",
+     "pass": false
+    },
+    {
+     "measure": "band al",
+     "bin": "all",
+     "median_diff": 5.62104913922612e-05,
+     "p": 0.4106619031794354,
+     "up": "30/59",
+     "pass": false
+    }
+   ],
+   "kidney_w1": {
+    "median_diff": -0.0020482627269294493,
+    "p": 0.002021045128741398,
+    "not_worse": true
+   },
+   "verdict": "FAIL"
+  },
+  {
+   "title": "hybrid vs the retrieved image alone (reported)",
+   "a": "m7x",
+   "b": "retrieve",
+   "checks": [
+    {
+     "measure": "kidney dt",
+     "bin": "all",
+     "median_diff": 0.25698697105735185,
+     "p": 8.949335644155235e-11,
+     "up": "54/59",
+     "pass": true
+    },
+    {
+     "measure": "band dt",
+     "bin": "all",
+     "median_diff": 0.2746148616868956,
+     "p": 4.197559903814216e-11,
+     "up": "55/59",
+     "pass": true
+    },
+    {
+     "measure": "kidney",
+     "bin": "all",
+     "median_diff": 0.05835432332893237,
+     "p": 0.02219367986212754,
+     "up": "37/59",
+     "pass": true
+    },
+    {
+     "measure": "fan",
+     "bin": "all",
+     "median_diff": -0.09303412952265216,
+     "p": 0.0037504465741300635,
+     "up": "20/59",
+     "pass": false
+    },
+    {
+     "measure": "kidney al",
+     "bin": "all",
+     "median_diff": 0.14295965598689186,
+     "p": 1.707404849613131e-10,
+     "up": "55/59",
+     "pass": true
+    },
+    {
+     "measure": "band al",
+     "bin": "all",
+     "median_diff": 0.1830914641420046,
+     "p": 4.4165803795245355e-11,
+     "up": "57/59",
+     "pass": true
+    }
+   ],
+   "kidney_w1": null,
+   "verdict": "reported"
+  },
+  {
+   "title": "hybrid vs the patient's own label-warped image (reported)",
+   "a": "m7x",
+   "b": "labwarp",
+   "checks": [
+    {
+     "measure": "kidney dt",
+     "bin": "all",
+     "median_diff": 0.024460894349012885,
+     "p": 0.4236612886329665,
+     "up": "35/59",
+     "pass": false
+    },
+    {
+     "measure": "band dt",
+     "bin": "all",
+     "median_diff": 0.03776480369073065,
+     "p": 0.4021288086480087,
+     "up": "35/59",
+     "pass": false
+    },
+    {
+     "measure": "kidney",
+     "bin": "all",
+     "median_diff": -0.1871248321713478,
+     "p": 8.597986868200582e-07,
+     "up": "14/59",
+     "pass": false
+    },
+    {
+     "measure": "fan",
+     "bin": "all",
+     "median_diff": -0.3464521173551643,
+     "p": 2.516350662927766e-11,
+     "up": "1/59",
+     "pass": false
+    },
+    {
+     "measure": "kidney al",
+     "bin": "all",
+     "median_diff": 0.017704981896612293,
+     "p": 0.3895304208318051,
+     "up": "37/59",
+     "pass": false
+    },
+    {
+     "measure": "band al",
+     "bin": "all",
+     "median_diff": -0.001458267370859745,
+     "p": 0.9518499546271278,
+     "up": "29/59",
+     "pass": false
+    }
+   ],
+   "kidney_w1": null,
+   "verdict": "reported"
+  }
+ ]
+}

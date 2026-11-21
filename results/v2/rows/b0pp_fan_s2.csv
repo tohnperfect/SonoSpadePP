@@ -1,0 +1,145 @@
+model,seed,metric,tissue,value,ci_lo,ci_hi,n,extractor,dr_db,protocol,ckpt_sha256,date
+b0pp_fan,2,edge_iou,all,0.5503696847844833,0.5309394960661824,0.5674769106485319,200,,,v1,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,organ_w1,liver,0.044708698987960815,nan,nan,,,,v1,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,organ_w1,gallbladder,0.07225167751312256,nan,nan,,,,v1,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,organ_w1,vessel,0.12013083696365356,nan,nan,,,,v1,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,organ_w1,kidney,0.10297060012817383,nan,nan,,,,v1,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,organ_w1,all,0.08501545339822769,0.06589026360306889,0.10948483080137521,4,,,v1,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,locality_band0,background,0.5852849950274168,nan,nan,,,,v1,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,locality_band0,vessel,34.887902003142926,nan,nan,,,,v1,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,locality_band0,pancreas,67.34763113899183,nan,nan,,,,v1,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,locality_band0,fat,14.301240436792687,nan,nan,,,,v1,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,locality_band0,lung,6.651751904135853,nan,nan,,,,v1,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,locality_band0,soft_tissue,15.99824272553425,nan,nan,,,,v1,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,locality_band0,gallbladder,27.992107102756513,nan,nan,,,,v1,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,locality_band0,gi,38.22072649086318,nan,nan,,,,v1,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,locality_band0,all,25.748110849655582,19.899999906589567,33.03253755282143,40,,,v1,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,locality_band8,background,0.7210155703147476,nan,nan,,,,band8,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,locality_band8,vessel,86.47193538383007,nan,nan,,,,band8,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,locality_band8,pancreas,121.36596912246694,nan,nan,,,,band8,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,locality_band8,fat,41.12436748077317,nan,nan,,,,band8,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,locality_band8,lung,7.818908024809468,nan,nan,,,,band8,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,locality_band8,soft_tissue,70.78580262348666,nan,nan,,,,band8,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,locality_band8,gallbladder,55.31751210728875,nan,nan,,,,band8,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,locality_band8,gi,60.737630189788824,nan,nan,,,,band8,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,locality_band8,all,55.54289256284483,43.450426163143085,70.34429838332322,40,,,band8,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,tissue_kid,liver,64.66744443197969,18.5313071340598,178.1933955350819,312/1600,usfm,,crop16 x1e3,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,tissue_fd,liver,23.833638355473767,nan,nan,312/1600,usfm,,crop16,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,tissue_kid,gallbladder,255.06640670291864,18.90466322747672,824.7541819484073,43/560,usfm,,crop16 x1e3,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,tissue_fd,gallbladder,47.97563885784463,nan,nan,43/560,usfm,,crop16,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,tissue_kid,vessel,302.52532647327416,17.542478450172247,718.2377834012793,56/536,usfm,,crop16 x1e3,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,tissue_fd,vessel,61.86840502197851,nan,nan,56/536,usfm,,crop16,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,tissue_kid,kidney,251.21612169995183,68.3693675176556,554.6810373679042,120/192,usfm,,crop16 x1e3,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,tissue_fd,kidney,55.018120139951364,nan,nan,120/192,usfm,,crop16,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,tissue_kid,spleen,nan,nan,nan,48/0,usfm,,crop16 skipped: too few crops,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,tissue_kid,mean,218.36882482703106,nan,nan,4,usfm,,"crop16 x1e3, mean over tissues with >= 20 crops",ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,frame_kid,all,12.437634567426503,nan,nan,60/200,usfm,,raw x1e3,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,frame_fd,all,1.2593341220379481,nan,nan,60/200,usfm,,raw,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,frame_kid,all,1.8611103543286767,nan,nan,60/200,usfm,,fan x1e3,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,frame_fd,all,0.40922805725997424,nan,nan,60/200,usfm,,fan,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,tissue_kid,liver,67.48389934447823,14.929914177654176,208.01334665076834,288/1600,usfm,,"crop-size sensitivity, crop32 x1e3",ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,tissue_fd,liver,18.737478059494755,nan,nan,288/1600,usfm,,"crop-size sensitivity, crop32",ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,tissue_kid,gallbladder,nan,nan,nan,0/16,usfm,,"crop-size sensitivity, crop32 skipped: too few crops",ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,tissue_kid,vessel,nan,nan,nan,0/51,usfm,,"crop-size sensitivity, crop32 skipped: too few crops",ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,tissue_kid,kidney,241.50233945465516,21.873854848646694,747.9547262150821,64/40,usfm,,"crop-size sensitivity, crop32 x1e3",ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,tissue_fd,kidney,44.823933323761636,nan,nan,64/40,usfm,,"crop-size sensitivity, crop32",ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,tissue_kid,spleen,nan,nan,nan,16/0,usfm,,"crop-size sensitivity, crop32 skipped: too few crops",ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,tissue_kid,mean,154.4931193995667,nan,nan,2,usfm,,"crop-size sensitivity, crop32 x1e3, mean over tissues with >= 20 crops",ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,tissue_kid,liver,5651.572328288794,4923.7342006281815,6433.002234804776,312/1600,dinov2,,crop16 x1e3,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,tissue_fd,liver,579.0013962596212,nan,nan,312/1600,dinov2,,crop16,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,tissue_kid,gallbladder,7300.360453810715,6845.153600934708,15071.05330232918,43/560,dinov2,,crop16 x1e3,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,tissue_fd,gallbladder,1002.2572657354144,nan,nan,43/560,dinov2,,crop16,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,tissue_kid,vessel,7062.563900158187,7079.287132582064,11744.001667628603,56/536,dinov2,,crop16 x1e3,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,tissue_fd,vessel,1004.5076812744011,nan,nan,56/536,dinov2,,crop16,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,tissue_kid,kidney,5501.472388600508,4692.194230748221,7543.872472753856,120/192,dinov2,,crop16 x1e3,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,tissue_fd,kidney,597.8217508644234,nan,nan,120/192,dinov2,,crop16,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,tissue_kid,spleen,nan,nan,nan,48/0,dinov2,,crop16 skipped: too few crops,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,tissue_kid,mean,6378.992267714551,nan,nan,4,dinov2,,"crop16 x1e3, mean over tissues with >= 20 crops",ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,frame_kid,all,57467.236742709356,nan,nan,60/200,dinov2,,raw x1e3,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,frame_fd,all,2397.542824127905,nan,nan,60/200,dinov2,,raw,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,frame_kid,all,62917.08290481584,nan,nan,60/200,dinov2,,fan x1e3,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,frame_fd,all,2648.655349707791,nan,nan,60/200,dinov2,,fan,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,tissue_kid,liver,10692.88985871686,9751.36801736496,12324.88238254145,288/1600,dinov2,,"crop-size sensitivity, crop32 x1e3",ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,tissue_fd,liver,1211.813859514611,nan,nan,288/1600,dinov2,,"crop-size sensitivity, crop32",ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,tissue_kid,gallbladder,nan,nan,nan,0/16,dinov2,,"crop-size sensitivity, crop32 skipped: too few crops",ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,tissue_kid,vessel,nan,nan,nan,0/51,dinov2,,"crop-size sensitivity, crop32 skipped: too few crops",ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,tissue_kid,kidney,18932.9433451761,18006.978812019286,29814.953147991404,64/40,dinov2,,"crop-size sensitivity, crop32 x1e3",ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,tissue_fd,kidney,1696.786756059689,nan,nan,64/40,dinov2,,"crop-size sensitivity, crop32",ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,tissue_kid,spleen,nan,nan,nan,16/0,dinov2,,"crop-size sensitivity, crop32 skipped: too few crops",ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,tissue_kid,mean,14812.91660194648,nan,nan,2,dinov2,,"crop-size sensitivity, crop32 x1e3, mean over tissues with >= 20 crops",ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,nakagami_m_w1,liver,9.490682356212968,nan,nan,6049/38347,,40.0,DR sensitivity,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,nakagami_logm_w1,liver,1.0285312222222946,nan,nan,6049/38347,,40.0,DR sensitivity,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,nakagami_m_w1,gallbladder,nan,nan,nan,10/265,,40.0,skipped: few windows,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,nakagami_m_w1,vessel,nan,nan,nan,6/448,,40.0,skipped: few windows,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,nakagami_m_w1,kidney,3.3582788098604324,nan,nan,373/159,,40.0,DR sensitivity,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,nakagami_logm_w1,kidney,1.437874127283542,nan,nan,373/159,,40.0,DR sensitivity,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,nakagami_m_w1,spleen,nan,nan,nan,99/0,,40.0,skipped: few windows,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,nakagami_m_w1,mean,6.424480583036701,nan,nan,2,,40.0,DR sensitivity,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,nakagami_logm_w1,mean,1.2332026747529183,nan,nan,2,,40.0,DR sensitivity,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,nakagami_m_w1,liver,6.074052252561004,nan,nan,6049/38347,,50.0,DR sensitivity,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,nakagami_logm_w1,liver,1.0509715330178975,nan,nan,6049/38347,,50.0,DR sensitivity,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,nakagami_m_w1,gallbladder,nan,nan,nan,10/265,,50.0,skipped: few windows,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,nakagami_m_w1,vessel,nan,nan,nan,6/448,,50.0,skipped: few windows,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,nakagami_m_w1,kidney,2.113255013853229,nan,nan,373/159,,50.0,DR sensitivity,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,nakagami_logm_w1,kidney,1.458317164435495,nan,nan,373/159,,50.0,DR sensitivity,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,nakagami_m_w1,spleen,nan,nan,nan,99/0,,50.0,skipped: few windows,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,nakagami_m_w1,mean,4.093653633207117,nan,nan,2,,50.0,DR sensitivity,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,nakagami_logm_w1,mean,1.2546443487266963,nan,nan,2,,50.0,DR sensitivity,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,nakagami_m_w1,liver,4.219631614756307,1.951110135463172,7.806712125872983,6049/38347,,60.0,,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,log_omega_w1,liver,1.0396093328137286,nan,nan,6049/38347,,60.0,,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,nakagami_m_mean_real,liver,2.793356087826629,nan,nan,6049,,60.0,,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,nakagami_m_mean_fake,liver,7.176057698152234,nan,nan,38347,,60.0,,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,nakagami_m_median_real,liver,1.369806279791064,nan,nan,6049,,60.0,,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,nakagami_m_median_fake,liver,3.4495930308476863,nan,nan,38347,,60.0,,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,nakagami_logm_w1,liver,1.063835055934538,nan,nan,6049/38347,,60.0,,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,nakagami_m_w1,gallbladder,nan,nan,nan,10/265,,60.0,skipped: few windows,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,nakagami_m_w1,vessel,nan,nan,nan,6/448,,60.0,skipped: few windows,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,nakagami_m_w1,kidney,1.4390378428606945,0.7419798111035883,2.4287704659767755,373/159,,60.0,,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,log_omega_w1,kidney,2.4148939474770077,nan,nan,373/159,,60.0,,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,nakagami_m_mean_real,kidney,1.0670463074945593,nan,nan,373,,60.0,,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,nakagami_m_mean_fake,kidney,2.39263340271207,nan,nan,159,,60.0,,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,nakagami_m_median_real,kidney,0.34455576611887306,nan,nan,373,,60.0,,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,nakagami_m_median_fake,kidney,1.690817715930348,nan,nan,159,,60.0,,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,nakagami_logm_w1,kidney,1.4546102965984602,nan,nan,373/159,,60.0,,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,nakagami_m_w1,spleen,nan,nan,nan,99/0,,60.0,skipped: few windows,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,nakagami_m_w1,mean,2.829334728808501,nan,nan,2,,60.0,,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,nakagami_logm_w1,mean,1.259222676266499,nan,nan,2,,60.0,,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,nakagami_m_w1,liver,3.0922373768009197,nan,nan,6049/38347,,70.0,DR sensitivity,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,nakagami_logm_w1,liver,1.0682836786456245,nan,nan,6049/38347,,70.0,DR sensitivity,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,nakagami_m_w1,gallbladder,nan,nan,nan,10/265,,70.0,skipped: few windows,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,nakagami_m_w1,vessel,nan,nan,nan,6/448,,70.0,skipped: few windows,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,nakagami_m_w1,kidney,1.0355465602142515,nan,nan,373/159,,70.0,DR sensitivity,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,nakagami_logm_w1,kidney,1.4330929601371536,nan,nan,373/159,,70.0,DR sensitivity,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,nakagami_m_w1,spleen,nan,nan,nan,99/0,,70.0,skipped: few windows,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,nakagami_m_w1,mean,2.0638919685075856,nan,nan,2,,70.0,DR sensitivity,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,nakagami_logm_w1,mean,1.2506883193913891,nan,nan,2,,70.0,DR sensitivity,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,speckle_fwhm_real_axial,liver,2.825021714878365,nan,nan,323,,,depth_bin=0,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,speckle_fwhm_fake_axial,liver,3.593720694100087,nan,nan,6438,,,depth_bin=0,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,speckle_fwhm_real_lateral,liver,3.363441495836609,nan,nan,323,,,depth_bin=0,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,speckle_fwhm_fake_lateral,liver,3.644037652007805,nan,nan,6438,,,depth_bin=0,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,speckle_fwhm_real_axial,liver,2.2483279068861135,nan,nan,2423,,,depth_bin=1,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,speckle_fwhm_fake_axial,liver,4.438618259486348,nan,nan,12617,,,depth_bin=1,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,speckle_fwhm_real_lateral,liver,3.2196917570920247,nan,nan,2423,,,depth_bin=1,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,speckle_fwhm_fake_lateral,liver,3.167503665272865,nan,nan,12617,,,depth_bin=1,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,speckle_fwhm_real_axial,liver,2.4157816013889817,nan,nan,344,,,depth_bin=2,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,speckle_fwhm_fake_axial,liver,3.12484706389548,nan,nan,907,,,depth_bin=2,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,speckle_fwhm_real_lateral,liver,3.273017197836615,nan,nan,344,,,depth_bin=2,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,speckle_fwhm_fake_lateral,liver,3.138685452951645,nan,nan,907,,,depth_bin=2,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,speckle_size_err,liver,0.6891951312006301,nan,nan,6,,60.0,,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,speckle_fwhm_real_axial,gallbladder,1.2533294542877769,nan,nan,4,,,depth_bin=1,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,speckle_fwhm_fake_axial,gallbladder,3.5772750366090573,nan,nan,59,,,depth_bin=1,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,speckle_fwhm_real_lateral,gallbladder,1.68822248498862,nan,nan,4,,,depth_bin=1,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,speckle_fwhm_fake_lateral,gallbladder,8.112880011488235,nan,nan,59,,,depth_bin=1,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,speckle_size_err,gallbladder,4.374301554410447,nan,nan,2,,60.0,,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,speckle_fwhm_real_axial,vessel,1.6096385194892215,nan,nan,3,,,depth_bin=2,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,speckle_fwhm_fake_axial,vessel,2.736932642362896,nan,nan,27,,,depth_bin=2,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,speckle_fwhm_real_lateral,vessel,8.072757714574324,nan,nan,3,,,depth_bin=2,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,speckle_fwhm_fake_lateral,vessel,1.7933886996118342,nan,nan,27,,,depth_bin=2,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,speckle_size_err,vessel,3.7033315689180824,nan,nan,2,,60.0,,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,speckle_fwhm_real_axial,kidney,2.0055693940823383,nan,nan,169,,,depth_bin=1,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,speckle_fwhm_fake_axial,kidney,2.897594010062992,nan,nan,34,,,depth_bin=1,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,speckle_fwhm_real_lateral,kidney,2.410072478316799,nan,nan,169,,,depth_bin=1,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,speckle_fwhm_fake_lateral,kidney,3.0447110660786407,nan,nan,34,,,depth_bin=1,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,speckle_size_err,kidney,0.7633316018712477,nan,nan,2,,60.0,,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,speckle_size_err,mean,2.382539964100102,nan,nan,4,,60.0,,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19
+b0pp_fan,2,diversity_lpips,all,0.0,nan,nan,,,,deterministic stage: one output per label,ddb9ccb76f875686aacfb3f59f77daf5a77e2c2067010cce0cf3898907a0d853,2026-11-19

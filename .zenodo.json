@@ -1,0 +1,77 @@
+{
+  "upload_type": "software",
+  "title": "SonoSpadePP: patient-faithful, real-time ultrasound synthesis from CT for teaching simulators (code and result files)",
+  "version": "1.0.0",
+  "creators": [
+    {
+      "name": "Intharah, Thanapong",
+      "affiliation": "Visual Intelligence Laboratory, Department of Statistics, Faculty of Science, Khon Kaen University, Khon Kaen 40002, Thailand"
+    },
+    {
+      "name": "Gao, Zhichao",
+      "affiliation": "School of Computer Science, Peking University, Beijing 100871, China"
+    },
+    {
+      "name": "Liu, Yiliang",
+      "affiliation": "School of Computer Science, Peking University, Beijing 100871, China"
+    },
+    {
+      "name": "Dong, Hao",
+      "affiliation": "School of Computer Science, Peking University, Beijing 100871, China"
+    }
+  ],
+  "license": "Apache-2.0",
+  "description": "<p>Code, result files and table scripts for a study of CT-to-ultrasound translation in teaching simulators: SonoSPADE trained at three levels of supervision (unpaired frames, registered CT and ultrasound planes of other patients, one image of the patient), evaluated per tissue, in the speckle, and against real ultrasound of the same patient. Every number of the manuscript rebuilds from the tracked result files with scripts/v2/paper_macros_v2.py. No dataset is redistributed.</p>",
+  "notes": "The trained weights are release assets of the GitHub repository, under CC BY-NC 4.0 (see WEIGHTS.md); they are not part of this archive.",
+  "keywords": [
+    "ultrasound simulation",
+    "image synthesis",
+    "computed tomography",
+    "speckle",
+    "medical education"
+  ],
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/tohnperfect/SonoSpadePP/tree/v1.0.0",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/tohnperfect/SonoSpade/releases/tag/v0.2.0",
+      "relation": "requires",
+      "resource_type": "software",
+      "scheme": "url"
+    },
+    {
+      "identifier": "10.5281/zenodo.24384221",
+      "relation": "references",
+      "resource_type": "software",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.1038/s41597-025-04467-1",
+      "relation": "references",
+      "resource_type": "publication-article",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.1007/s11548-019-02046-5",
+      "relation": "references",
+      "resource_type": "publication-article",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.1016/j.media.2024.103202",
+      "relation": "references",
+      "resource_type": "publication-article",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.1148/ryai.230024",
+      "relation": "references",
+      "resource_type": "publication-article",
+      "scheme": "doi"
+    }
+  ]
+}

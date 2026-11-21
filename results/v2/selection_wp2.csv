@@ -1,0 +1,5 @@
+name,ckpt,trained_fm,val_fan_kid_usfm,val_fan_kid_dinov2,edge_iou,locality_band0,locality_band8,date,diversity_lpips,style_swap_locality
+v1sel,runs/v2/wp1/v1sel_s0.pt,none,15.1442,43777.2883,0.4542,25.437,57.884,2026-11-17,0.0,
+e2i_ms0.1,runs/v2/wp2/e2i_ms0.1_s0.pt,none,95.3095,47249.9096,0.3957,17.676,26.958,2026-11-17,0.05074,15.2537
+e2i_ms0.3,runs/v2/wp2/e2i_ms0.3_s0.pt,none,363.0996,66208.9142,0.3249,8.347,10.672,2026-11-17,0.13519,6.9512
+e2i_ms1,runs/v2/wp2/e2i_ms1_s0.pt,none,244.9855,60598.4477,0.3312,7.658,10.216,2026-11-17,0.2368,2.2152

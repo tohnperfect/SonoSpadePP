@@ -1,0 +1,145 @@
+model,seed,metric,tissue,value,ci_lo,ci_hi,n,extractor,dr_db,protocol,ckpt_sha256,date
+tier1_fan,1,edge_iou,all,0.4374589111790733,0.42379071881285996,0.4503187715515197,200,,,v1,,2026-11-19
+tier1_fan,1,organ_w1,liver,0.04651080444455147,nan,nan,,,,v1,,2026-11-19
+tier1_fan,1,organ_w1,gallbladder,0.07452075183391571,nan,nan,,,,v1,,2026-11-19
+tier1_fan,1,organ_w1,vessel,0.09793364256620407,nan,nan,,,,v1,,2026-11-19
+tier1_fan,1,organ_w1,kidney,0.08036436885595322,nan,nan,,,,v1,,2026-11-19
+tier1_fan,1,organ_w1,all,0.07483239192515612,0.05939681362360716,0.10071444441564383,4,,,v1,,2026-11-19
+tier1_fan,1,locality_band0,background,1.8766481805677213,nan,nan,,,,v1,,2026-11-19
+tier1_fan,1,locality_band0,vessel,25.215286119756,nan,nan,,,,v1,,2026-11-19
+tier1_fan,1,locality_band0,pancreas,14.028201645936761,nan,nan,,,,v1,,2026-11-19
+tier1_fan,1,locality_band0,fat,6.852279303721962,nan,nan,,,,v1,,2026-11-19
+tier1_fan,1,locality_band0,lung,9.799333951114578,nan,nan,,,,v1,,2026-11-19
+tier1_fan,1,locality_band0,soft_tissue,6.252956069628487,nan,nan,,,,v1,,2026-11-19
+tier1_fan,1,locality_band0,gallbladder,16.8399866961277,nan,nan,,,,v1,,2026-11-19
+tier1_fan,1,locality_band0,gi,14.938736231933989,nan,nan,,,,v1,,2026-11-19
+tier1_fan,1,locality_band0,all,11.9754285248484,11.023360583276572,12.934819417604869,40,,,v1,,2026-11-19
+tier1_fan,1,locality_band8,background,2.212964093825309,nan,nan,,,,band8,,2026-11-19
+tier1_fan,1,locality_band8,vessel,45.01037890173894,nan,nan,,,,band8,,2026-11-19
+tier1_fan,1,locality_band8,pancreas,19.210286159165946,nan,nan,,,,band8,,2026-11-19
+tier1_fan,1,locality_band8,fat,12.728910808746125,nan,nan,,,,band8,,2026-11-19
+tier1_fan,1,locality_band8,lung,13.186793922057547,nan,nan,,,,band8,,2026-11-19
+tier1_fan,1,locality_band8,soft_tissue,14.164825808811324,nan,nan,,,,band8,,2026-11-19
+tier1_fan,1,locality_band8,gallbladder,25.384577079826986,nan,nan,,,,band8,,2026-11-19
+tier1_fan,1,locality_band8,gi,18.775778676398136,nan,nan,,,,band8,,2026-11-19
+tier1_fan,1,locality_band8,all,18.83431443132129,17.411586314462163,20.207789815098135,40,,,band8,,2026-11-19
+tier1_fan,1,tissue_kid,liver,45.35354095439271,13.1181098544817,129.01691518380733,312/1600,usfm,,crop16 x1e3,,2026-11-19
+tier1_fan,1,tissue_fd,liver,19.950397684841754,nan,nan,312/1600,usfm,,crop16,,2026-11-19
+tier1_fan,1,tissue_kid,gallbladder,412.2554816942285,75.51180024549895,1054.216023109589,43/560,usfm,,crop16 x1e3,,2026-11-19
+tier1_fan,1,tissue_fd,gallbladder,77.69326635948312,nan,nan,43/560,usfm,,crop16,,2026-11-19
+tier1_fan,1,tissue_kid,vessel,493.9344059160516,71.67657863325866,1019.5443787347174,56/536,usfm,,crop16 x1e3,,2026-11-19
+tier1_fan,1,tissue_fd,vessel,87.84840066825538,nan,nan,56/536,usfm,,crop16,,2026-11-19
+tier1_fan,1,tissue_kid,kidney,245.4293503661937,76.59812289881661,484.0304395652865,120/192,usfm,,crop16 x1e3,,2026-11-19
+tier1_fan,1,tissue_fd,kidney,68.76514156793876,nan,nan,120/192,usfm,,crop16,,2026-11-19
+tier1_fan,1,tissue_kid,spleen,nan,nan,nan,48/0,usfm,,crop16 skipped: too few crops,,2026-11-19
+tier1_fan,1,tissue_kid,mean,299.24319473271663,nan,nan,4,usfm,,"crop16 x1e3, mean over tissues with >= 20 crops",,2026-11-19
+tier1_fan,1,frame_kid,all,13.361566457401324,nan,nan,60/200,usfm,,raw x1e3,,2026-11-19
+tier1_fan,1,frame_fd,all,1.7312470489551564,nan,nan,60/200,usfm,,raw,,2026-11-19
+tier1_fan,1,frame_kid,all,2.1386171397625375,nan,nan,60/200,usfm,,fan x1e3,,2026-11-19
+tier1_fan,1,frame_fd,all,0.8352146351944496,nan,nan,60/200,usfm,,fan,,2026-11-19
+tier1_fan,1,tissue_kid,liver,44.518978321167985,8.83797074885027,142.95426571922934,288/1600,usfm,,"crop-size sensitivity, crop32 x1e3",,2026-11-19
+tier1_fan,1,tissue_fd,liver,17.860567546686806,nan,nan,288/1600,usfm,,"crop-size sensitivity, crop32",,2026-11-19
+tier1_fan,1,tissue_kid,gallbladder,nan,nan,nan,0/16,usfm,,"crop-size sensitivity, crop32 skipped: too few crops",,2026-11-19
+tier1_fan,1,tissue_kid,vessel,nan,nan,nan,0/51,usfm,,"crop-size sensitivity, crop32 skipped: too few crops",,2026-11-19
+tier1_fan,1,tissue_kid,kidney,239.88410524245953,82.18981478543415,484.7528918338469,64/40,usfm,,"crop-size sensitivity, crop32 x1e3",,2026-11-19
+tier1_fan,1,tissue_fd,kidney,50.36423252814857,nan,nan,64/40,usfm,,"crop-size sensitivity, crop32",,2026-11-19
+tier1_fan,1,tissue_kid,spleen,nan,nan,nan,16/0,usfm,,"crop-size sensitivity, crop32 skipped: too few crops",,2026-11-19
+tier1_fan,1,tissue_kid,mean,142.20154178181375,nan,nan,2,usfm,,"crop-size sensitivity, crop32 x1e3, mean over tissues with >= 20 crops",,2026-11-19
+tier1_fan,1,tissue_kid,liver,4011.9492223372486,3603.403148922255,4570.904468090187,312/1600,dinov2,,crop16 x1e3,,2026-11-19
+tier1_fan,1,tissue_fd,liver,493.3858286929815,nan,nan,312/1600,dinov2,,crop16,,2026-11-19
+tier1_fan,1,tissue_kid,gallbladder,7570.1407182769735,6826.384908792542,16820.024657360616,43/560,dinov2,,crop16 x1e3,,2026-11-19
+tier1_fan,1,tissue_fd,gallbladder,964.6985138137765,nan,nan,43/560,dinov2,,crop16,,2026-11-19
+tier1_fan,1,tissue_kid,vessel,6853.135196856276,6582.699821780946,10756.31824167851,56/536,dinov2,,crop16 x1e3,,2026-11-19
+tier1_fan,1,tissue_fd,vessel,1027.7947744142475,nan,nan,56/536,dinov2,,crop16,,2026-11-19
+tier1_fan,1,tissue_kid,kidney,6346.49039193646,5521.4432580129505,7934.8936815735615,120/192,dinov2,,crop16 x1e3,,2026-11-19
+tier1_fan,1,tissue_fd,kidney,650.282506811832,nan,nan,120/192,dinov2,,crop16,,2026-11-19
+tier1_fan,1,tissue_kid,spleen,nan,nan,nan,48/0,dinov2,,crop16 skipped: too few crops,,2026-11-19
+tier1_fan,1,tissue_kid,mean,6195.428882351739,nan,nan,4,dinov2,,"crop16 x1e3, mean over tissues with >= 20 crops",,2026-11-19
+tier1_fan,1,frame_kid,all,64742.55048599566,nan,nan,60/200,dinov2,,raw x1e3,,2026-11-19
+tier1_fan,1,frame_fd,all,2303.5378806135814,nan,nan,60/200,dinov2,,raw,,2026-11-19
+tier1_fan,1,frame_kid,all,63429.89946029931,nan,nan,60/200,dinov2,,fan x1e3,,2026-11-19
+tier1_fan,1,frame_fd,all,2397.2773604310205,nan,nan,60/200,dinov2,,fan,,2026-11-19
+tier1_fan,1,tissue_kid,liver,8032.613495032173,7158.985042033375,9353.986719621544,288/1600,dinov2,,"crop-size sensitivity, crop32 x1e3",,2026-11-19
+tier1_fan,1,tissue_fd,liver,956.4854326373676,nan,nan,288/1600,dinov2,,"crop-size sensitivity, crop32",,2026-11-19
+tier1_fan,1,tissue_kid,gallbladder,nan,nan,nan,0/16,dinov2,,"crop-size sensitivity, crop32 skipped: too few crops",,2026-11-19
+tier1_fan,1,tissue_kid,vessel,nan,nan,nan,0/51,dinov2,,"crop-size sensitivity, crop32 skipped: too few crops",,2026-11-19
+tier1_fan,1,tissue_kid,kidney,14694.954489326254,14334.146918838018,27635.783696460596,64/40,dinov2,,"crop-size sensitivity, crop32 x1e3",,2026-11-19
+tier1_fan,1,tissue_fd,kidney,1272.0876398565906,nan,nan,64/40,dinov2,,"crop-size sensitivity, crop32",,2026-11-19
+tier1_fan,1,tissue_kid,spleen,nan,nan,nan,16/0,dinov2,,"crop-size sensitivity, crop32 skipped: too few crops",,2026-11-19
+tier1_fan,1,tissue_kid,mean,11363.783992179213,nan,nan,2,dinov2,,"crop-size sensitivity, crop32 x1e3, mean over tissues with >= 20 crops",,2026-11-19
+tier1_fan,1,nakagami_m_w1,liver,11.960726256605279,nan,nan,6049/38347,,40.0,DR sensitivity,,2026-11-19
+tier1_fan,1,nakagami_logm_w1,liver,1.475539475225582,nan,nan,6049/38347,,40.0,DR sensitivity,,2026-11-19
+tier1_fan,1,nakagami_m_w1,gallbladder,nan,nan,nan,10/265,,40.0,skipped: few windows,,2026-11-19
+tier1_fan,1,nakagami_m_w1,vessel,nan,nan,nan,6/448,,40.0,skipped: few windows,,2026-11-19
+tier1_fan,1,nakagami_m_w1,kidney,19.220465494632997,nan,nan,373/159,,40.0,DR sensitivity,,2026-11-19
+tier1_fan,1,nakagami_logm_w1,kidney,2.883364481480621,nan,nan,373/159,,40.0,DR sensitivity,,2026-11-19
+tier1_fan,1,nakagami_m_w1,spleen,nan,nan,nan,99/0,,40.0,skipped: few windows,,2026-11-19
+tier1_fan,1,nakagami_m_w1,mean,15.590595875619137,nan,nan,2,,40.0,DR sensitivity,,2026-11-19
+tier1_fan,1,nakagami_logm_w1,mean,2.1794519783531014,nan,nan,2,,40.0,DR sensitivity,,2026-11-19
+tier1_fan,1,nakagami_m_w1,liver,7.685805806855314,nan,nan,6049/38347,,50.0,DR sensitivity,,2026-11-19
+tier1_fan,1,nakagami_logm_w1,liver,1.5040736682126785,nan,nan,6049/38347,,50.0,DR sensitivity,,2026-11-19
+tier1_fan,1,nakagami_m_w1,gallbladder,nan,nan,nan,10/265,,50.0,skipped: few windows,,2026-11-19
+tier1_fan,1,nakagami_m_w1,vessel,nan,nan,nan,6/448,,50.0,skipped: few windows,,2026-11-19
+tier1_fan,1,nakagami_m_w1,kidney,12.222457149706306,nan,nan,373/159,,50.0,DR sensitivity,,2026-11-19
+tier1_fan,1,nakagami_logm_w1,kidney,2.9377097338855713,nan,nan,373/159,,50.0,DR sensitivity,,2026-11-19
+tier1_fan,1,nakagami_m_w1,spleen,nan,nan,nan,99/0,,50.0,skipped: few windows,,2026-11-19
+tier1_fan,1,nakagami_m_w1,mean,9.95413147828081,nan,nan,2,,50.0,DR sensitivity,,2026-11-19
+tier1_fan,1,nakagami_logm_w1,mean,2.220891701049125,nan,nan,2,,50.0,DR sensitivity,,2026-11-19
+tier1_fan,1,nakagami_m_w1,liver,5.3491305314260025,4.621612644944017,6.14974990547336,6049/38347,,60.0,,,2026-11-19
+tier1_fan,1,log_omega_w1,liver,0.8988655958782195,nan,nan,6049/38347,,60.0,,,2026-11-19
+tier1_fan,1,nakagami_m_mean_real,liver,2.793356087826629,nan,nan,6049,,60.0,,,2026-11-19
+tier1_fan,1,nakagami_m_mean_fake,liver,8.18780022633736,nan,nan,38347,,60.0,,,2026-11-19
+tier1_fan,1,nakagami_m_median_real,liver,1.369806279791064,nan,nan,6049,,60.0,,,2026-11-19
+tier1_fan,1,nakagami_m_median_fake,liver,5.633269107313385,nan,nan,38347,,60.0,,,2026-11-19
+tier1_fan,1,nakagami_logm_w1,liver,1.5231242025952296,nan,nan,6049/38347,,60.0,,,2026-11-19
+tier1_fan,1,nakagami_m_w1,gallbladder,nan,nan,nan,10/265,,60.0,skipped: few windows,,2026-11-19
+tier1_fan,1,nakagami_m_w1,vessel,nan,nan,nan,6/448,,60.0,skipped: few windows,,2026-11-19
+tier1_fan,1,nakagami_m_w1,kidney,8.422588065900598,6.304929382892394,10.833870230210119,373/159,,60.0,,,2026-11-19
+tier1_fan,1,log_omega_w1,kidney,2.149990993891639,nan,nan,373/159,,60.0,,,2026-11-19
+tier1_fan,1,nakagami_m_mean_real,kidney,1.0670463074945593,nan,nan,373,,60.0,,,2026-11-19
+tier1_fan,1,nakagami_m_mean_fake,kidney,9.51458829882073,nan,nan,159,,60.0,,,2026-11-19
+tier1_fan,1,nakagami_m_median_real,kidney,0.34455576611887306,nan,nan,373,,60.0,,,2026-11-19
+tier1_fan,1,nakagami_m_median_fake,kidney,8.067371494861083,nan,nan,159,,60.0,,,2026-11-19
+tier1_fan,1,nakagami_logm_w1,kidney,2.9647567250331477,nan,nan,373/159,,60.0,,,2026-11-19
+tier1_fan,1,nakagami_m_w1,spleen,nan,nan,nan,99/0,,60.0,skipped: few windows,,2026-11-19
+tier1_fan,1,nakagami_m_w1,mean,6.8858592986633,nan,nan,2,,60.0,,,2026-11-19
+tier1_fan,1,nakagami_logm_w1,mean,2.2439404638141887,nan,nan,2,,60.0,,,2026-11-19
+tier1_fan,1,nakagami_m_w1,liver,3.9353324481306267,nan,nan,6049/38347,,70.0,DR sensitivity,,2026-11-19
+tier1_fan,1,nakagami_logm_w1,liver,1.5340789116435922,nan,nan,6049/38347,,70.0,DR sensitivity,,2026-11-19
+tier1_fan,1,nakagami_m_w1,gallbladder,nan,nan,nan,10/265,,70.0,skipped: few windows,,2026-11-19
+tier1_fan,1,nakagami_m_w1,vessel,nan,nan,nan,6/448,,70.0,skipped: few windows,,2026-11-19
+tier1_fan,1,nakagami_m_w1,kidney,6.134029381677462,nan,nan,373/159,,70.0,DR sensitivity,,2026-11-19
+tier1_fan,1,nakagami_logm_w1,kidney,2.9696052372583384,nan,nan,373/159,,70.0,DR sensitivity,,2026-11-19
+tier1_fan,1,nakagami_m_w1,spleen,nan,nan,nan,99/0,,70.0,skipped: few windows,,2026-11-19
+tier1_fan,1,nakagami_m_w1,mean,5.034680914904044,nan,nan,2,,70.0,DR sensitivity,,2026-11-19
+tier1_fan,1,nakagami_logm_w1,mean,2.2518420744509653,nan,nan,2,,70.0,DR sensitivity,,2026-11-19
+tier1_fan,1,speckle_fwhm_real_axial,liver,2.825021714878365,nan,nan,323,,,depth_bin=0,,2026-11-19
+tier1_fan,1,speckle_fwhm_fake_axial,liver,3.5554201789593485,nan,nan,6438,,,depth_bin=0,,2026-11-19
+tier1_fan,1,speckle_fwhm_real_lateral,liver,3.363441495836609,nan,nan,323,,,depth_bin=0,,2026-11-19
+tier1_fan,1,speckle_fwhm_fake_lateral,liver,5.7540252498396764,nan,nan,6438,,,depth_bin=0,,2026-11-19
+tier1_fan,1,speckle_fwhm_real_axial,liver,2.2483279068861135,nan,nan,2423,,,depth_bin=1,,2026-11-19
+tier1_fan,1,speckle_fwhm_fake_axial,liver,3.5816527396038556,nan,nan,12617,,,depth_bin=1,,2026-11-19
+tier1_fan,1,speckle_fwhm_real_lateral,liver,3.2196917570920247,nan,nan,2423,,,depth_bin=1,,2026-11-19
+tier1_fan,1,speckle_fwhm_fake_lateral,liver,4.882618877311533,nan,nan,12617,,,depth_bin=1,,2026-11-19
+tier1_fan,1,speckle_fwhm_real_axial,liver,2.4157816013889817,nan,nan,344,,,depth_bin=2,,2026-11-19
+tier1_fan,1,speckle_fwhm_fake_axial,liver,2.579118657358789,nan,nan,907,,,depth_bin=2,,2026-11-19
+tier1_fan,1,speckle_fwhm_real_lateral,liver,3.273017197836615,nan,nan,344,,,depth_bin=2,,2026-11-19
+tier1_fan,1,speckle_fwhm_fake_lateral,liver,4.941879534336302,nan,nan,907,,,depth_bin=2,,2026-11-19
+tier1_fan,1,speckle_size_err,liver,1.3249055939151326,nan,nan,6,,60.0,,,2026-11-19
+tier1_fan,1,speckle_fwhm_real_axial,gallbladder,1.2533294542877769,nan,nan,4,,,depth_bin=1,,2026-11-19
+tier1_fan,1,speckle_fwhm_fake_axial,gallbladder,4.298241750576863,nan,nan,59,,,depth_bin=1,,2026-11-19
+tier1_fan,1,speckle_fwhm_real_lateral,gallbladder,1.68822248498862,nan,nan,4,,,depth_bin=1,,2026-11-19
+tier1_fan,1,speckle_fwhm_fake_lateral,gallbladder,4.72441898168852,nan,nan,59,,,depth_bin=1,,2026-11-19
+tier1_fan,1,speckle_size_err,gallbladder,3.0405543964944926,nan,nan,2,,60.0,,,2026-11-19
+tier1_fan,1,speckle_fwhm_real_axial,vessel,1.6096385194892215,nan,nan,3,,,depth_bin=2,,2026-11-19
+tier1_fan,1,speckle_fwhm_fake_axial,vessel,2.5233537750158397,nan,nan,27,,,depth_bin=2,,2026-11-19
+tier1_fan,1,speckle_fwhm_real_lateral,vessel,8.072757714574324,nan,nan,3,,,depth_bin=2,,2026-11-19
+tier1_fan,1,speckle_fwhm_fake_lateral,vessel,1.881381330033653,nan,nan,27,,,depth_bin=2,,2026-11-19
+tier1_fan,1,speckle_size_err,vessel,3.552545820033645,nan,nan,2,,60.0,,,2026-11-19
+tier1_fan,1,speckle_fwhm_real_axial,kidney,2.0055693940823383,nan,nan,169,,,depth_bin=1,,2026-11-19
+tier1_fan,1,speckle_fwhm_fake_axial,kidney,4.120019230967895,nan,nan,34,,,depth_bin=1,,2026-11-19
+tier1_fan,1,speckle_fwhm_real_lateral,kidney,2.410072478316799,nan,nan,169,,,depth_bin=1,,2026-11-19
+tier1_fan,1,speckle_fwhm_fake_lateral,kidney,3.580934716899001,nan,nan,34,,,depth_bin=1,,2026-11-19
+tier1_fan,1,speckle_size_err,kidney,1.6426560377338792,nan,nan,2,,60.0,,,2026-11-19
+tier1_fan,1,speckle_size_err,mean,2.3901654620442874,nan,nan,4,,60.0,,,2026-11-19
+tier1_fan,1,diversity_lpips,all,0.0,nan,nan,,,,deterministic stage: one output per label,,2026-11-19

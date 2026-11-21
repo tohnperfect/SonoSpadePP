@@ -1,0 +1,17 @@
+name,ckpt,trained_fm,val_fan_kid_usfm,val_fan_kid_dinov2,edge_iou,locality_band0,locality_band8,date
+v1sel,runs/v2/wp1/v1sel_s0.pt,none,15.1442,43777.2883,0.4542,25.437,57.884,2026-11-16
+e1a_echocare_adv0.1,runs/v2/wp1/e1a_echocare_adv0.1_s0.pt,echocare,31.086,46759.5642,0.4041,24.855,54.846,2026-11-16
+e1a_echocare_adv0.5,runs/v2/wp1/e1a_echocare_adv0.5_s0.pt,echocare,7.3741,45270.1021,0.4055,21.126,46.967,2026-11-16
+e1a_echocare_adv1,runs/v2/wp1/e1a_echocare_adv1_s0.pt,echocare,2.6487,42097.8259,0.3578,18.035,34.106,2026-11-16
+e1a_echocare_adv2,runs/v2/wp1/e1a_echocare_adv2_s0.pt,echocare,1.846,43498.965,0.3404,16.175,27.821,2026-11-16
+e1b_echocare_tis0.1,runs/v2/wp1/e1b_echocare_tis0.1_s0.pt,echocare,17.6719,42014.4452,0.4324,26.078,59.934,2026-11-16
+e1b_echocare_tis0.5,runs/v2/wp1/e1b_echocare_tis0.5_s0.pt,echocare,7.1392,43437.4406,0.4015,25.86,61.97,2026-11-16
+e1b_echocare_tis1,runs/v2/wp1/e1b_echocare_tis1_s0.pt,echocare,5.6413,37352.4971,0.4216,22.213,46.422,2026-11-16
+e1b_echocare_tis2,runs/v2/wp1/e1b_echocare_tis2_s0.pt,echocare,10.0851,38326.7684,0.4033,20.47,40.046,2026-11-16
+e1c_echocare_adv0.5_tis0.1,runs/v2/wp1/e1c_echocare_adv0.5_tis0.1_s0.pt,echocare,5.6071,42723.5812,0.397,20.74,43.314,2026-11-16
+e1a_usfm_adv0.5,runs/v2/wp1/e1a_usfm_adv0.5_s0.pt,usfm,,29345.9684,0.2949,18.248,36.196,2026-11-16
+e1b_usfm_tis0.1,runs/v2/wp1/e1b_usfm_tis0.1_s0.pt,usfm,,44965.0296,0.3922,25.024,54.971,2026-11-16
+e1c_usfm_adv0.5_tis0.1,runs/v2/wp1/e1c_usfm_adv0.5_tis0.1_s0.pt,usfm,,33302.6762,0.2918,19.223,39.037,2026-11-16
+e1a_dinov2_adv0.5,runs/v2/wp1/e1a_dinov2_adv0.5_s0.pt,dinov2,15.435,,0.3354,24.119,51.921,2026-11-16
+e1b_dinov2_tis0.1,runs/v2/wp1/e1b_dinov2_tis0.1_s0.pt,dinov2,11.1606,,0.4438,26.323,61.11,2026-11-16
+e1c_dinov2_adv0.5_tis0.1,runs/v2/wp1/e1c_dinov2_adv0.5_tis0.1_s0.pt,dinov2,12.9149,,0.356,20.102,35.907,2026-11-16

@@ -1,0 +1,55 @@
+cff-version: 1.2.0
+message: "If you use this software, its result files or its weights, please cite it as below."
+type: software
+title: "SonoSpadePP: patient-faithful, real-time ultrasound synthesis from CT for teaching simulators"
+version: 1.0.0
+date-released: "2026-11-26"
+license: Apache-2.0
+repository-code: "https://github.com/tohnperfect/SonoSpadePP"
+# doi: fill in after the first release is archived (Zenodo)
+abstract: >-
+  Code, result files and table scripts for a study of CT-to-ultrasound translation in teaching
+  simulators: SonoSPADE trained at three levels of supervision (unpaired frames, registered CT and
+  ultrasound planes of other patients, one image of the patient), evaluated per tissue, in the
+  speckle, and against real ultrasound of the same patient.
+keywords:
+  - ultrasound simulation
+  - image synthesis
+  - computed tomography
+  - speckle
+  - medical education
+authors:
+  - family-names: Intharah
+    given-names: Thanapong
+    affiliation: "Visual Intelligence Laboratory, Department of Statistics, Faculty of Science, Khon Kaen University, Khon Kaen 40002, Thailand"
+  - family-names: Gao
+    given-names: Zhichao
+    affiliation: "School of Computer Science, Peking University, Beijing 100871, China"
+  - family-names: Liu
+    given-names: Yiliang
+    affiliation: "School of Computer Science, Peking University, Beijing 100871, China"
+  - family-names: Dong
+    given-names: Hao
+    affiliation: "School of Computer Science, Peking University, Beijing 100871, China"
+references:
+  - type: conference-paper
+    title: "SonoSPADE: Real-Time, Per-Tissue Ultrasound Texture Synthesis for Closed-Loop Acquisition"
+    authors:
+      - family-names: Intharah
+        given-names: Thanapong
+      - family-names: Gao
+        given-names: Zhichao
+      - family-names: Dong
+        given-names: Hao
+    collection-title: "Medical Image Computing and Computer Assisted Intervention - MICCAI 2026 Workshops and Challenges"
+    year: 2026
+    url: "https://papers.miccai.org/miccai-2026-sat/SASHIMI_035.html"
+  - type: article
+    title: "TRUSTED: The Paired 3D Transabdominal Ultrasound and CT Human Data for Kidney Segmentation and Registration Research"
+    authors:
+      - family-names: Ndzimbong
+        given-names: William
+      - name: "et al."
+    journal: "Scientific Data"
+    year: 2025
+    doi: 10.1038/s41597-025-04467-1
