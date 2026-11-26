@@ -6,7 +6,7 @@ version: 1.0.0
 date-released: "2026-11-26"
 license: Apache-2.0
 repository-code: "https://github.com/tohnperfect/SonoSpadePP"
-# doi: fill in after the first release is archived (Zenodo)
+doi: 10.5281/zenodo.24548095
 abstract: >-
   Code, result files and table scripts for a study of CT-to-ultrasound translation in teaching
   simulators: SonoSPADE trained at three levels of supervision (unpaired frames, registered CT and

@@ -232,8 +232,10 @@ tests/                  unit tests and the macro regression test
 
 ## Citing
 
-See `CITATION.cff`. Please also cite SonoSPADE, and the datasets and models you use through this
-code (table above).
+See `CITATION.cff`. The releases are archived on Zenodo:
+[doi:10.5281/zenodo.24548095](https://doi.org/10.5281/zenodo.24548095) for all versions, and
+[doi:10.5281/zenodo.24548096](https://doi.org/10.5281/zenodo.24548096) for version 1.0.0. Please also cite SonoSPADE,
+and the datasets and models you use through this code (table above).
 
 ## License
 
